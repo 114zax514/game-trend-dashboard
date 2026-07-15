@@ -259,3 +259,12 @@
     twitch_game_id: null
     ios_app_id: null
     android_package: null
+- game_id: factory-town-2-paradise
+  name: 'Factory Town 2: Paradise'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3312130
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null

@@ -1,0 +1,158 @@
+.page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 32px 24px 64px;
+}
+
+.page-header {
+  margin-bottom: 24px;
+}
+
+.page-header h1 {
+  font-size: 28px;
+  font-weight: 600;
+  margin: 0 0 4px;
+  color: var(--text-primary);
+}
+
+.muted {
+  color: var(--text-muted);
+}
+
+.error {
+  color: var(--text-primary);
+}
+
+.table-wrap {
+  overflow-x: auto;
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 720px;
+}
+
+thead th {
+  text-align: left;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--gridline);
+  white-space: nowrap;
+}
+
+thead th.num {
+  text-align: right;
+}
+
+tbody td {
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--gridline);
+  font-size: 14px;
+  color: var(--text-primary);
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+tbody tr:last-child td {
+  border-bottom: none;
+}
+
+td.num {
+  text-align: right;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* --- カテゴリバッジ(identity: categorical color) --- */
+.badge-cat {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.badge-cat::before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.badge-cat-premium {
+  color: var(--cat-premium);
+  background: color-mix(in srgb, var(--cat-premium) 14%, transparent);
+}
+.badge-cat-premium::before {
+  background: var(--cat-premium);
+}
+
+.badge-cat-f2p {
+  color: var(--cat-f2p);
+  background: color-mix(in srgb, var(--cat-f2p) 14%, transparent);
+}
+.badge-cat-f2p::before {
+  background: var(--cat-f2p);
+}
+
+/* --- 要確認バッジ(status: warning, icon+labelで色単独に依存しない) --- */
+.badge-warning {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-left: 8px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: color-mix(in srgb, var(--status-warning) 18%, transparent);
+  vertical-align: middle;
+}
+
+.badge-warning .dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--status-warning);
+}
+
+/* --- 水準/横断注目度スコアのメーター --- */
+.meter {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 120px;
+}
+
+.meter-track {
+  flex: 1;
+  height: 8px;
+  border-radius: 4px;
+  background: var(--seq-track);
+  overflow: hidden;
+}
+
+.meter-fill {
+  height: 100%;
+  border-radius: 4px;
+  background: var(--seq-fill);
+}
+
+.meter-value {
+  font-variant-numeric: tabular-nums;
+  font-size: 13px;
+  color: var(--text-secondary);
+  width: 34px;
+  text-align: right;
+}
