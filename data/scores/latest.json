@@ -1,0 +1,498 @@
+{
+  "updated_at": "2026-07-15T20:31:48.061130+09:00",
+  "games": [
+    {
+      "game_id": "エーペックスレジェンズ",
+      "name": "エーペックスレジェンズ",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 116746.0
+      }
+    },
+    {
+      "game_id": "counter-strike-2",
+      "name": "Counter-Strike 2",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 965241.0
+      }
+    },
+    {
+      "game_id": "七つの大罪-origin",
+      "name": "七つの大罪：Origin",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 8529.0
+      }
+    },
+    {
+      "game_id": "オーバーウォッチ",
+      "name": "「オーバーウォッチ®」",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 34138.0
+      }
+    },
+    {
+      "game_id": "echoes-of-aincrad",
+      "name": "Echoes of Aincrad",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 20.7,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 6920.0
+      }
+    },
+    {
+      "game_id": "palworld-パルワールド",
+      "name": "Palworld / パルワールド",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 96.6,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 573653.0
+      }
+    },
+    {
+      "game_id": "granblue-fantasy-relink",
+      "name": "GRANBLUE FANTASY: Relink",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 79.3,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 50509.0
+      }
+    },
+    {
+      "game_id": "shadowverse-worlds-beyond",
+      "name": "Shadowverse: Worlds Beyond",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 12695.0
+      }
+    },
+    {
+      "game_id": "デッドバイデイライト",
+      "name": "デッドバイデイライト",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 82.8,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 59672.0
+      }
+    },
+    {
+      "game_id": "めっちゃカメレオン",
+      "name": "めっちゃカメレオン",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 65.5,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 31421.0
+      }
+    },
+    {
+      "game_id": "pubg-battlegrounds",
+      "name": "PUBG: BATTLEGROUNDS",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 465782.0
+      }
+    },
+    {
+      "game_id": "wuthering-waves",
+      "name": "Wuthering Waves",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 17159.0
+      }
+    },
+    {
+      "game_id": "星の翼",
+      "name": "星の翼",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 1649.0
+      }
+    },
+    {
+      "game_id": "efootball",
+      "name": "eFootball™",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 14104.0
+      }
+    },
+    {
+      "game_id": "the-mound-omen-of-cthulhu",
+      "name": "The Mound: Omen of Cthulhu",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 13.8,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 2612.0
+      }
+    },
+    {
+      "game_id": "ark-survival-ascended",
+      "name": "ARK: Survival Ascended",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 62.1,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 29431.0
+      }
+    },
+    {
+      "game_id": "street-fighter-6",
+      "name": "Street Fighter 6",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 48.3,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 21665.0
+      }
+    },
+    {
+      "game_id": "limbus-company",
+      "name": "Limbus Company",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 44392.0
+      }
+    },
+    {
+      "game_id": "forza-horizon-6",
+      "name": "Forza Horizon 6",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 55.2,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 25933.0
+      }
+    },
+    {
+      "game_id": "nte-neverness-to-everness",
+      "name": "NTE: Neverness to Everness",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 5616.0
+      }
+    },
+    {
+      "game_id": "escape-from-tarkov",
+      "name": "Escape from Tarkov",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 51.7,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 22469.0
+      }
+    },
+    {
+      "game_id": "アサシン-クリード-ブラック-フラッグ-re-シンクロ",
+      "name": "アサシン クリード ブラック フラッグ RE:シンクロ",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 72.4,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 44015.0
+      }
+    },
+    {
+      "game_id": "yu-gi-oh-master-duel",
+      "name": "Yu-Gi-Oh! Master Duel",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 15729.0
+      }
+    },
+    {
+      "game_id": "グランド-セフト-オートv-エンハンスト",
+      "name": "グランド・セフト・オートV エンハンスト",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 86.2,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 89874.0
+      }
+    },
+    {
+      "game_id": "nba-2k26",
+      "name": "NBA 2K26",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 58.6,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 26612.0
+      }
+    },
+    {
+      "game_id": "satisfactory",
+      "name": "Satisfactory",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 34.5,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 14901.0
+      }
+    },
+    {
+      "game_id": "elden-ring-nightreign",
+      "name": "ELDEN RING NIGHTREIGN",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 44.8,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 18180.0
+      }
+    },
+    {
+      "game_id": "ペルソナ５-the-phantom-x",
+      "name": "ペルソナ５: The Phantom X",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 1561.0
+      }
+    },
+    {
+      "game_id": "活俠傳",
+      "name": "活俠傳",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 10.3,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 2434.0
+      }
+    }
+  ]
+}

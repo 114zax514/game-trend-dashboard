@@ -1,0 +1,261 @@
+- game_id: エーペックスレジェンズ
+  name: エーペックスレジェンズ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1172470
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: counter-strike-2
+  name: Counter-Strike 2
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 730
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: 七つの大罪-origin
+  name: 七つの大罪：Origin
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 3679080
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: オーバーウォッチ
+  name: 「オーバーウォッチ®」
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2357570
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: echoes-of-aincrad
+  name: Echoes of Aincrad
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2244210
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: palworld-パルワールド
+  name: Palworld / パルワールド
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1623730
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: granblue-fantasy-relink
+  name: 'GRANBLUE FANTASY: Relink'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 881020
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: shadowverse-worlds-beyond
+  name: 'Shadowverse: Worlds Beyond'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2584990
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: デッドバイデイライト
+  name: デッドバイデイライト
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 381210
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: めっちゃカメレオン
+  name: めっちゃカメレオン
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4704690
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: pubg-battlegrounds
+  name: 'PUBG: BATTLEGROUNDS'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 578080
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: wuthering-waves
+  name: Wuthering Waves
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 3513350
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: 星の翼
+  name: 星の翼
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2764370
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: efootball
+  name: eFootball™
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1665460
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: the-mound-omen-of-cthulhu
+  name: 'The Mound: Omen of Cthulhu'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2569760
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ark-survival-ascended
+  name: 'ARK: Survival Ascended'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2399830
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: street-fighter-6
+  name: Street Fighter 6
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1364780
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: limbus-company
+  name: Limbus Company
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1973530
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: forza-horizon-6
+  name: Forza Horizon 6
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2483190
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: nte-neverness-to-everness
+  name: 'NTE: Neverness to Everness'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 4508340
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: escape-from-tarkov
+  name: Escape from Tarkov
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3932890
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: アサシン-クリード-ブラック-フラッグ-re-シンクロ
+  name: アサシン クリード ブラック フラッグ RE:シンクロ
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3751950
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: yu-gi-oh-master-duel
+  name: Yu-Gi-Oh! Master Duel
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1449850
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: グランド-セフト-オートv-エンハンスト
+  name: グランド・セフト・オートV エンハンスト
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3240220
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: nba-2k26
+  name: NBA 2K26
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3472040
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: satisfactory
+  name: Satisfactory
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 526870
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: elden-ring-nightreign
+  name: ELDEN RING NIGHTREIGN
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2622380
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ペルソナ５-the-phantom-x
+  name: 'ペルソナ５: The Phantom X'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 3061570
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: 活俠傳
+  name: 活俠傳
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1859910
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
