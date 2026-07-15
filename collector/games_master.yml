@@ -68,7 +68,7 @@
   platforms:
     steam_appid: 2584990
     twitch_game_id: null
-    ios_app_id: null
+    ios_app_id: '6472019540'
     android_package: null
 - game_id: デッドバイデイライト
   name: デッドバイデイライト
@@ -122,7 +122,7 @@
   platforms:
     steam_appid: 1665460
     twitch_game_id: null
-    ios_app_id: null
+    ios_app_id: '1117270703'
     android_package: null
 - game_id: the-mound-omen-of-cthulhu
   name: 'The Mound: Omen of Cthulhu'
@@ -177,7 +177,7 @@
     steam_appid: 4508340
     twitch_game_id: null
     ios_app_id: null
-    android_package: null
+    android_package: com.hottagames.nte
 - game_id: escape-from-tarkov
   name: Escape from Tarkov
   category: premium
@@ -268,3 +268,444 @@
     twitch_game_id: null
     ios_app_id: null
     android_package: null
+- game_id: モンスターストライク
+  name: モンスターストライク
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '658511662'
+    android_package: null
+- game_id: 崩壊-スターレイル
+  name: 崩壊：スターレイル
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1599719154'
+    android_package: null
+- game_id: パズル-ドラゴンズ
+  name: パズル＆ドラゴンズ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '493470467'
+    android_package: null
+- game_id: ホワイトアウト-サバイバル
+  name: ホワイトアウト・サバイバル
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6443575749'
+    android_package: null
+- game_id: pokémon-go
+  name: Pokémon GO
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1094591345'
+    android_package: null
+- game_id: ドラゴンボールz-ドッカンバトル
+  name: ドラゴンボールZ ドッカンバトル
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '951627670'
+    android_package: null
+- game_id: ラストウォー-サバイバル
+  name: ラストウォー：サバイバル
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6448786147'
+    android_package: null
+- game_id: ゴシップハーバー-マージ-ストーリー
+  name: ゴシップハーバー：マージ & ストーリー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1623318294'
+    android_package: null
+- game_id: キングショット
+  name: キングショット
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6739554056'
+    android_package: null
+- game_id: 白猫プロジェクト
+  name: 白猫プロジェクト
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '895687962'
+    android_package: null
+- game_id: efootball-ウイコレ-champion-squads
+  name: eFootball™ウイコレ CHAMPION SQUADS
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1273064549'
+    android_package: null
+- game_id: あんさんぶるスターズ-music
+  name: あんさんぶるスターズ！！Music
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1494428618'
+    android_package: null
+- game_id: トゥーンブラスト
+  name: トゥーンブラスト
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1176027022'
+    android_package: null
+- game_id: ロイヤルマッチ-royal-match
+  name: ロイヤルマッチ（Royal Match)
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1482155847'
+    android_package: null
+- game_id: パズル-サバイバル
+  name: パズル&サバイバル
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1517980891'
+    android_package: null
+- game_id: pokémon-tcg-pocket
+  name: Pokémon TCG Pocket
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6479970832'
+    android_package: null
+- game_id: 勝利の女神-nikke
+  name: 勝利の女神：NIKKE
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1585915174'
+    android_package: null
+- game_id: pokémon-sleep
+  name: Pokémon Sleep
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1579464667'
+    android_package: null
+- game_id: ディズニー-ツイステッドワンダーランド
+  name: ディズニー ツイステッドワンダーランド
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1477455989'
+    android_package: null
+- game_id: ガーデンスケイプ-gardenscapes
+  name: ガーデンスケイプ (Gardenscapes)
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1105855019'
+    android_package: null
+- game_id: イナズマイレブン-クロス
+  name: イナズマイレブン クロス
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6756994116'
+    android_package: null
+- game_id: line-ポコポコ-3マッチパズルゲーム
+  name: LINE ポコポコ：3マッチパズルゲーム
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '888615473'
+    android_package: null
+- game_id: ブロスタ
+  name: ブロスタ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1229016807'
+    android_package: null
+- game_id: 荒野行動-スマホ版バトロワ
+  name: 荒野行動-スマホ版バトロワ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1312031248'
+    android_package: null
+- game_id: ドラゴンクエストウォーク-歩く楽しみが増える位置情報ゲーム
+  name: ドラゴンクエストウォーク 歩く楽しみが増える位置情報ゲーム
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1439417234'
+    android_package: null
+- game_id: ウマ娘-プリティーダービー
+  name: ウマ娘 プリティーダービー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1325457827'
+    android_package: null
+- game_id: ラストz-サバイバルシューティング
+  name: ラストZ：サバイバルシューティング
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6503272652'
+    android_package: null
+- game_id: グルメ-ジャーニー
+  name: グルメ・ジャーニー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6471045672'
+    android_package: null
+- game_id: arknights
+  name: Arknights
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.YoStarEN.Arknights
+- game_id: アークナイツ
+  name: アークナイツ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.YoStarJP.Arknights
+- game_id: 명일방주
+  name: 명일방주
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.YoStarKR.Arknights
+- game_id: valor-legends-shoot-run
+  name: 'Valor Legends: Shoot & Run'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.ageofeternity.global
+- game_id: cookierun-tower-of-adventures
+  name: 'CookieRun: Tower of Adventures'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.devsisters.cba
+- game_id: free-fire-max
+  name: Free Fire MAX
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.dts.freefiremax
+- game_id: アスファルト-legends
+  name: アスファルト:Legends
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.gameloft.android.ANMP.GloftA9HM
+- game_id: ディズニー-スピードストーム
+  name: ディズニー スピードストーム
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.gameloft.anmp.disney.speedstorm
+- game_id: odin-valhalla-rising
+  name: ODIN:VALHALLA RISING
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.kakaogames.gbod
+- game_id: ファームヒーロー
+  name: ファームヒーロー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.king.farmheroessaga
+- game_id: 君主の道
+  name: 君主の道
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.ncsoft.lineagen
+- game_id: game-of-thrones-kingsroad
+  name: 'Game of Thrones: Kingsroad'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.netmarble.got
+- game_id: 俺だけレベルアップな件-arise-俺アラ
+  name: 俺だけレベルアップな件：Arise（俺アラ）
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.netmarble.sololv
+- game_id: ソニックランブル-パーティ-白熱オンラインパーティゲーム
+  name: ソニックランブル パーティ│白熱オンラインパーティゲーム
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.sega.sonicrumble
+- game_id: クラッシュ-オブ-クラン-clash-of-clans
+  name: クラッシュ・オブ・クラン (Clash of Clans)
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.supercell.clashofclans
+- game_id: クラッシュ-ロワイヤル-clash-royale
+  name: クラッシュ・ロワイヤル (Clash Royale)
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.supercell.clashroyale
+- game_id: エボニー-王の帰還
+  name: エボニー - 王の帰還
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.topgamesinc.evony
+- game_id: p
+  name: p
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.xishanju.mechabreak
+- game_id: ムーンライト-ピークス-ヴァンパイアのゴシックライフ
+  name: ムーンライト・ピークス -ヴァンパイアのゴシックライフ-
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.xseed.moonlightpeaks
+- game_id: リアル麻雀-雀龍門m-麻雀ゲーム
+  name: リアル麻雀 雀龍門M [麻雀ゲーム]
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: jp.co.ncjapan.janryumon
+- game_id: リネージュm-本格スマホmmorpg
+  name: リネージュM - 本格スマホMMORPG
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: jp.co.ncjapan.lineagem

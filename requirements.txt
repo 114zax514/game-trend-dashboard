@@ -1,2 +1,5 @@
 requests
 PyYAML
+google-play-scraper
+app-store-scraper
+pytrends

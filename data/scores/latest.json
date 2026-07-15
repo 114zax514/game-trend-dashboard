@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T20:31:48.061130+09:00",
+  "updated_at": "2026-07-15T21:20:13.052922+09:00",
   "games": [
     {
       "game_id": "エーペックスレジェンズ",
@@ -75,15 +75,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 20.7,
+        "level": 23.3,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 94.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 6920.0
+        "steam_concurrent": 6920.0,
+        "trends_index": 0.6026490066225165
       }
     },
     {
@@ -92,15 +93,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 96.6,
+        "level": 96.7,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 43.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 573653.0
+        "steam_concurrent": 573653.0,
+        "trends_index": 0.0008584743684081432
       }
     },
     {
@@ -109,15 +111,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 79.3,
+        "level": 80.0,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 82.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 50509.0
+        "steam_concurrent": 50509.0,
+        "trends_index": 0.07714005396124601
       }
     },
     {
@@ -126,15 +129,17 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": null,
+        "level": 9.8,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 0.0,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 12695.0
+        "steam_concurrent": 12695.0,
+        "store_rank": 6.0,
+        "trends_index": 0.0
       }
     },
     {
@@ -143,7 +148,7 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 82.8,
+        "level": 83.3,
         "momentum": null
       },
       "attention": {
@@ -160,7 +165,7 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 65.5,
+        "level": 66.7,
         "momentum": null
       },
       "attention": {
@@ -215,11 +220,12 @@
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 88.2,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 1649.0
+        "steam_concurrent": 1649.0,
+        "trends_index": 0.2341469397767693
       }
     },
     {
@@ -228,15 +234,17 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": null,
+        "level": 90.2,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 2.0,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 14104.0
+        "steam_concurrent": 14104.0,
+        "store_rank": 28.0,
+        "trends_index": 0.0
       }
     },
     {
@@ -245,15 +253,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 13.8,
+        "level": 16.7,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 25.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 2612.0
+        "steam_concurrent": 2612.0,
+        "trends_index": 0.0002453084754078253
       }
     },
     {
@@ -262,15 +271,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 62.1,
+        "level": 63.3,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 72.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 29431.0
+        "steam_concurrent": 29431.0,
+        "trends_index": 0.016558322090028207
       }
     },
     {
@@ -279,15 +289,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 48.3,
+        "level": 50.0,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 60.8,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 21665.0
+        "steam_concurrent": 21665.0,
+        "trends_index": 0.004538206795044768
       }
     },
     {
@@ -300,11 +311,12 @@
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 78.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 44392.0
+        "steam_concurrent": 44392.0,
+        "trends_index": 0.060100576474917206
       }
     },
     {
@@ -313,15 +325,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 55.2,
+        "level": 56.7,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 84.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 25933.0
+        "steam_concurrent": 25933.0,
+        "trends_index": 0.14313749540046608
       }
     },
     {
@@ -330,15 +343,17 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": null,
+        "level": 25.5,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 39.2,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 5616.0
+        "steam_concurrent": 5616.0,
+        "store_rank": 11.0,
+        "trends_index": 0.0004906169508156506
       }
     },
     {
@@ -347,15 +362,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 51.7,
+        "level": 53.3,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 68.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 22469.0
+        "steam_concurrent": 22469.0,
+        "trends_index": 0.008095179688458236
       }
     },
     {
@@ -364,15 +380,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 72.4,
+        "level": 73.3,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 66.7,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 44015.0
+        "steam_concurrent": 44015.0,
+        "trends_index": 0.007604562737642585
       }
     },
     {
@@ -385,11 +402,12 @@
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 3.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 15729.0
+        "steam_concurrent": 15729.0,
+        "trends_index": 0.0
       }
     },
     {
@@ -398,15 +416,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 86.2,
+        "level": 86.7,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 31.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 89874.0
+        "steam_concurrent": 89874.0,
+        "trends_index": 0.000367962713111738
       }
     },
     {
@@ -415,15 +434,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 58.6,
+        "level": 60.0,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 54.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 26612.0
+        "steam_concurrent": 26612.0,
+        "trends_index": 0.002207776278670428
       }
     },
     {
@@ -432,15 +452,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 34.5,
+        "level": 36.7,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 80.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 14901.0
+        "steam_concurrent": 14901.0,
+        "trends_index": 0.06255366122899546
       }
     },
     {
@@ -449,15 +470,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 44.8,
+        "level": 46.7,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 45.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 18180.0
+        "steam_concurrent": 18180.0,
+        "trends_index": 0.0009812339016313013
       }
     },
     {
@@ -470,11 +492,12 @@
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 27.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 1561.0
+        "steam_concurrent": 1561.0,
+        "trends_index": 0.0002453084754078253
       }
     },
     {
@@ -483,7 +506,79 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 10.3,
+        "level": 13.3,
+        "momentum": null
+      },
+      "attention": {
+        "level": 92.2,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 2434.0,
+        "trends_index": 0.3160799705629829
+      }
+    },
+    {
+      "game_id": "factory-town-2-paradise",
+      "name": "Factory Town 2: Paradise",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": 3.3,
+        "momentum": null
+      },
+      "attention": {
+        "level": 29.4,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "steam_concurrent": 238.0,
+        "trends_index": 0.0002453084754078253
+      }
+    },
+    {
+      "game_id": "モンスターストライク",
+      "name": "モンスターストライク",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 98.0,
+        "momentum": null
+      },
+      "attention": {
+        "level": 70.6,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 30.0,
+        "trends_index": 0.01520912547528517
+      }
+    },
+    {
+      "game_id": "崩壊-スターレイル",
+      "name": "崩壊：スターレイル",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 94.1,
+        "momentum": null
+      },
+      "attention": {
+        "level": 90.2,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 29.0,
+        "trends_index": 0.30148411627621735
+      }
+    },
+    {
+      "game_id": "パズル-ドラゴンズ",
+      "name": "パズル＆ドラゴンズ",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 86.3,
         "momentum": null
       },
       "attention": {
@@ -491,7 +586,817 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 2434.0
+        "store_rank": 27.0
+      }
+    },
+    {
+      "game_id": "ホワイトアウト-サバイバル",
+      "name": "ホワイトアウト・サバイバル",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 82.4,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 26.0
+      }
+    },
+    {
+      "game_id": "pokémon-go",
+      "name": "Pokémon GO",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 78.4,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 25.0
+      }
+    },
+    {
+      "game_id": "ドラゴンボールz-ドッカンバトル",
+      "name": "ドラゴンボールZ ドッカンバトル",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 74.5,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 24.0
+      }
+    },
+    {
+      "game_id": "ラストウォー-サバイバル",
+      "name": "ラストウォー：サバイバル",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 70.6,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 23.0
+      }
+    },
+    {
+      "game_id": "ゴシップハーバー-マージ-ストーリー",
+      "name": "ゴシップハーバー：マージ & ストーリー",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 66.7,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 22.0
+      }
+    },
+    {
+      "game_id": "キングショット",
+      "name": "キングショット",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 62.7,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 21.0
+      }
+    },
+    {
+      "game_id": "白猫プロジェクト",
+      "name": "白猫プロジェクト",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 58.8,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 20.0
+      }
+    },
+    {
+      "game_id": "efootball-ウイコレ-champion-squads",
+      "name": "eFootball™ウイコレ CHAMPION SQUADS",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 54.9,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 19.0
+      }
+    },
+    {
+      "game_id": "あんさんぶるスターズ-music",
+      "name": "あんさんぶるスターズ！！Music",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 51.0,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 18.0
+      }
+    },
+    {
+      "game_id": "トゥーンブラスト",
+      "name": "トゥーンブラスト",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 47.1,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 17.0
+      }
+    },
+    {
+      "game_id": "ロイヤルマッチ-royal-match",
+      "name": "ロイヤルマッチ（Royal Match)",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 43.1,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 16.0
+      }
+    },
+    {
+      "game_id": "パズル-サバイバル",
+      "name": "パズル&サバイバル",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 39.2,
+        "momentum": null
+      },
+      "attention": {
+        "level": 56.9,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 15.0,
+        "trends_index": 0.0031878371750858267
+      }
+    },
+    {
+      "game_id": "pokémon-tcg-pocket",
+      "name": "Pokémon TCG Pocket",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 35.3,
+        "momentum": null
+      },
+      "attention": {
+        "level": 41.2,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 14.0,
+        "trends_index": 0.0007356547327121138
+      }
+    },
+    {
+      "game_id": "勝利の女神-nikke",
+      "name": "勝利の女神：NIKKE",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 31.4,
+        "momentum": null
+      },
+      "attention": {
+        "level": 74.5,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 13.0,
+        "trends_index": 0.03273663560568907
+      }
+    },
+    {
+      "game_id": "pokémon-sleep",
+      "name": "Pokémon Sleep",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 29.4,
+        "momentum": null
+      },
+      "attention": {
+        "level": 62.7,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 12.0,
+        "trends_index": 0.004659146640510054
+      }
+    },
+    {
+      "game_id": "ディズニー-ツイステッドワンダーランド",
+      "name": "ディズニー ツイステッドワンダーランド",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 27.5,
+        "momentum": null
+      },
+      "attention": {
+        "level": 52.9,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 11.0,
+        "trends_index": 0.0015939185875429134
+      }
+    },
+    {
+      "game_id": "ガーデンスケイプ-gardenscapes",
+      "name": "ガーデンスケイプ (Gardenscapes)",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 21.6,
+        "momentum": null
+      },
+      "attention": {
+        "level": 35.3,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 10.0,
+        "trends_index": 0.0004904364884747426
+      }
+    },
+    {
+      "game_id": "イナズマイレブン-クロス",
+      "name": "イナズマイレブン クロス",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 17.6,
+        "momentum": null
+      },
+      "attention": {
+        "level": 86.3,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 9.0,
+        "trends_index": 0.1554683668464934
+      }
+    },
+    {
+      "game_id": "line-ポコポコ-3マッチパズルゲーム",
+      "name": "LINE ポコポコ：3マッチパズルゲーム",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 13.7,
+        "momentum": null
+      },
+      "attention": {
+        "level": 5.9,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 8.0,
+        "trends_index": 0.0
+      }
+    },
+    {
+      "game_id": "ブロスタ",
+      "name": "ブロスタ",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 11.8,
+        "momentum": null
+      },
+      "attention": {
+        "level": 98.0,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 7.0,
+        "trends_index": 1.896039603960396
+      }
+    },
+    {
+      "game_id": "荒野行動-スマホ版バトロワ",
+      "name": "荒野行動-スマホ版バトロワ",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 7.8,
+        "momentum": null
+      },
+      "attention": {
+        "level": 7.8,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 5.0,
+        "trends_index": 0.0
+      }
+    },
+    {
+      "game_id": "ドラゴンクエストウォーク-歩く楽しみが増える位置情報ゲーム",
+      "name": "ドラゴンクエストウォーク 歩く楽しみが増える位置情報ゲーム",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 5.9,
+        "momentum": null
+      },
+      "attention": {
+        "level": 9.8,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 4.0,
+        "trends_index": 0.0
+      }
+    },
+    {
+      "game_id": "ウマ娘-プリティーダービー",
+      "name": "ウマ娘 プリティーダービー",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 3.9,
+        "momentum": null
+      },
+      "attention": {
+        "level": 64.7,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 3.0,
+        "trends_index": 0.005902513328255902
+      }
+    },
+    {
+      "game_id": "ラストz-サバイバルシューティング",
+      "name": "ラストZ：サバイバルシューティング",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 2.0,
+        "momentum": null
+      },
+      "attention": {
+        "level": 23.5,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 2.0,
+        "trends_index": 0.0001839249586168843
+      }
+    },
+    {
+      "game_id": "グルメ-ジャーニー",
+      "name": "グルメ・ジャーニー",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 0.0,
+        "momentum": null
+      },
+      "attention": {
+        "level": 58.8,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 1.0,
+        "trends_index": 0.003678499172337686
+      }
+    },
+    {
+      "game_id": "arknights",
+      "name": "Arknights",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 100.0,
+        "momentum": null
+      },
+      "attention": {
+        "level": 76.5,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 30.0,
+        "trends_index": 0.04414199006805223
+      }
+    },
+    {
+      "game_id": "アークナイツ",
+      "name": "アークナイツ",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 96.1,
+        "momentum": null
+      },
+      "attention": {
+        "level": 96.1,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 29.0,
+        "trends_index": 1.1905462571270922
+      }
+    },
+    {
+      "game_id": "명일방주",
+      "name": "명일방주",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 92.2,
+        "momentum": null
+      },
+      "attention": {
+        "level": 37.3,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 28.0,
+        "trends_index": 0.0004904966278356836
+      }
+    },
+    {
+      "game_id": "valor-legends-shoot-run",
+      "name": "Valor Legends: Shoot & Run",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 88.2,
+        "momentum": null
+      },
+      "attention": {
+        "level": 11.8,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 27.0,
+        "trends_index": 0.0
+      }
+    },
+    {
+      "game_id": "cookierun-tower-of-adventures",
+      "name": "CookieRun: Tower of Adventures",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 84.3,
+        "momentum": null
+      },
+      "attention": {
+        "level": 13.7,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 26.0,
+        "trends_index": 0.0
+      }
+    },
+    {
+      "game_id": "free-fire-max",
+      "name": "Free Fire MAX",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 80.4,
+        "momentum": null
+      },
+      "attention": {
+        "level": 51.0,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 25.0,
+        "trends_index": 0.001471489883507051
+      }
+    },
+    {
+      "game_id": "アスファルト-legends",
+      "name": "アスファルト:Legends",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 76.5,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 24.0
+      }
+    },
+    {
+      "game_id": "ディズニー-スピードストーム",
+      "name": "ディズニー スピードストーム",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 72.5,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 23.0
+      }
+    },
+    {
+      "game_id": "odin-valhalla-rising",
+      "name": "ODIN:VALHALLA RISING",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 68.6,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 22.0
+      }
+    },
+    {
+      "game_id": "ファームヒーロー",
+      "name": "ファームヒーロー",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 64.7,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 21.0
+      }
+    },
+    {
+      "game_id": "君主の道",
+      "name": "君主の道",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 60.8,
+        "momentum": null
+      },
+      "attention": {
+        "level": 15.7,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 20.0,
+        "trends_index": 0.0
+      }
+    },
+    {
+      "game_id": "game-of-thrones-kingsroad",
+      "name": "Game of Thrones: Kingsroad",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 56.9,
+        "momentum": null
+      },
+      "attention": {
+        "level": 17.6,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 19.0,
+        "trends_index": 0.0
+      }
+    },
+    {
+      "game_id": "俺だけレベルアップな件-arise-俺アラ",
+      "name": "俺だけレベルアップな件：Arise（俺アラ）",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 52.9,
+        "momentum": null
+      },
+      "attention": {
+        "level": 19.6,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 18.0,
+        "trends_index": 0.0
+      }
+    },
+    {
+      "game_id": "ソニックランブル-パーティ-白熱オンラインパーティゲーム",
+      "name": "ソニックランブル パーティ│白熱オンラインパーティゲーム",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 49.0,
+        "momentum": null
+      },
+      "attention": {
+        "level": 49.0,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 17.0,
+        "trends_index": 0.001226391954868776
+      }
+    },
+    {
+      "game_id": "クラッシュ-オブ-クラン-clash-of-clans",
+      "name": "クラッシュ・オブ・クラン (Clash of Clans)",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 45.1,
+        "momentum": null
+      },
+      "attention": {
+        "level": 47.1,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 16.0,
+        "trends_index": 0.0012259910093992644
+      }
+    },
+    {
+      "game_id": "クラッシュ-ロワイヤル-clash-royale",
+      "name": "クラッシュ・ロワイヤル (Clash Royale)",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 41.2,
+        "momentum": null
+      },
+      "attention": {
+        "level": 21.6,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 15.0,
+        "trends_index": 0.0
+      }
+    },
+    {
+      "game_id": "エボニー-王の帰還",
+      "name": "エボニー - 王の帰還",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 37.3,
+        "momentum": null
+      },
+      "attention": {
+        "level": 33.3,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 14.0,
+        "trends_index": 0.0004086636697997548
+      }
+    },
+    {
+      "game_id": "p",
+      "name": "p",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": 100.0,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 13.0,
+        "trends_index": 4.121781773600327
+      }
+    },
+    {
+      "game_id": "ムーンライト-ピークス-ヴァンパイアのゴシックライフ",
+      "name": "ムーンライト・ピークス -ヴァンパイアのゴシックライフ-",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 10.0
+      }
+    },
+    {
+      "game_id": "リアル麻雀-雀龍門m-麻雀ゲーム",
+      "name": "リアル麻雀 雀龍門M [麻雀ゲーム]",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 19.6,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 9.0
+      }
+    },
+    {
+      "game_id": "リネージュm-本格スマホmmorpg",
+      "name": "リネージュM - 本格スマホMMORPG",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 15.7,
+        "momentum": null
+      },
+      "attention": {
+        "level": null,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 8.0
       }
     }
   ]
