@@ -23,7 +23,7 @@
   platforms:
     steam_appid: 3679080
     twitch_game_id: null
-    ios_app_id: null
+    ios_app_id: '6744205088'
     android_package: null
 - game_id: オーバーウォッチ
   name: 「オーバーウォッチ®」
@@ -700,3 +700,48 @@
     twitch_game_id: null
     ios_app_id: null
     android_package: jp.co.ncjapan.lineagem
+- game_id: full-stride
+  name: Full Stride
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4181970
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ebaseball-pro-spirit
+  name: 'eBaseball™: PRO SPIRIT'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 4128400
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: 風燕伝-where-winds-meet
+  name: 風燕伝：Where Winds Meet
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 3564740
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: デジモンストーリー-タイムストレンジャー
+  name: デジモンストーリー タイムストレンジャー
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1984270
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: デジモンup
+  name: デジモンUP
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6756247422'
+    android_package: null
