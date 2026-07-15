@@ -51,3 +51,12 @@ def make_game_id(name: str, appid) -> str:
     slug = "".join(c.lower() if c.isalnum() else "-" for c in name)
     slug = "-".join(filter(None, slug.split("-")))
     return slug or f"game-{appid}"
+
+
+def is_plausible_game_name(name: str) -> bool:
+    """明らかに壊れた/意味を成さないタイトルを弾く簡易バリデーション
+
+    ストアAPIが稀に1文字だけの値などを返すケース(実運用で確認済み)を除外する。
+    表記の妥当性までは検証しない。
+    """
+    return bool(name) and len(name.strip()) >= 2

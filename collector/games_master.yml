@@ -673,15 +673,6 @@
     twitch_game_id: null
     ios_app_id: null
     android_package: com.topgamesinc.evony
-- game_id: p
-  name: p
-  category: premium
-  needs_review: true
-  platforms:
-    steam_appid: null
-    twitch_game_id: null
-    ios_app_id: null
-    android_package: com.xishanju.mechabreak
 - game_id: ムーンライト-ピークス-ヴァンパイアのゴシックライフ
   name: ムーンライト・ピークス -ヴァンパイアのゴシックライフ-
   category: premium

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T21:20:13.052922+09:00",
+  "updated_at": "2026-07-16T07:18:02.510196+09:00",
   "games": [
     {
       "game_id": "エーペックスレジェンズ",
@@ -1328,24 +1328,6 @@
       "platforms_breakdown": {
         "store_rank": 14.0,
         "trends_index": 0.0004086636697997548
-      }
-    },
-    {
-      "game_id": "p",
-      "name": "p",
-      "category": "premium",
-      "needs_review": true,
-      "category_core": {
-        "level": null,
-        "momentum": null
-      },
-      "attention": {
-        "level": 100.0,
-        "momentum": null
-      },
-      "platforms_breakdown": {
-        "store_rank": 13.0,
-        "trends_index": 4.121781773600327
       }
     },
     {

@@ -10,7 +10,7 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 from sources import steam, app_store, google_play
 from games_master import (
     load_master, save_master, find_by_steam_appid, find_by_platform_id,
-    find_by_name, make_game_id,
+    find_by_name, make_game_id, is_plausible_game_name,
 )
 
 TOP_N = 30
@@ -41,6 +41,9 @@ def discover_steam(games: list[dict]) -> int:
             continue
 
         name = details["name"] or item["name"]
+        if not is_plausible_game_name(name):
+            print(f"[steam] 不正なタイトルと判定しスキップ: {name!r} (appid={appid})")
+            continue
         if any(marker in name for marker in NON_BASE_GAME_MARKERS):
             print(f"[steam] DLC等と判定しスキップ: {name} (appid={appid})")
             continue
@@ -71,6 +74,9 @@ def discover_ios(games: list[dict]) -> int:
         app_id = item["ios_app_id"]
         name = item["name"]
         if find_by_platform_id(games, "ios_app_id", app_id):
+            continue
+        if not is_plausible_game_name(name):
+            print(f"[ios] 不正なタイトルと判定しスキップ: {name!r} (app_id={app_id})")
             continue
 
         existing = find_by_name(games, name)
@@ -106,6 +112,10 @@ def discover_android(games: list[dict]) -> int:
             continue
 
         name = details["name"]
+        if not is_plausible_game_name(name):
+            print(f"[android] 不正なタイトルと判定しスキップ: {name!r} (package={package})")
+            continue
+
         existing = find_by_name(games, name)
         if existing:
             existing["platforms"]["android_package"] = package
