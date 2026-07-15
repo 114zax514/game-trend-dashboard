@@ -31,7 +31,7 @@ function App() {
   const [error, setError] = useState(null)
 
   useEffect(() => {
-    fetch('/scores/latest.json')
+    fetch(`${import.meta.env.BASE_URL}scores/latest.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`${res.status} ${res.statusText}`)
         return res.json()

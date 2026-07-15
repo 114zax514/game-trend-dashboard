@@ -7,4 +7,6 @@ export default defineConfig({
   // data/ (収集・スコアリング結果)をそのまま静的配信する。
   // ビルド時も同様にdist配下へコピーされるため、GitHub Pagesデプロイ時も追加の手順は不要。
   publicDir: '../data',
+  // GitHub Pages(プロジェクトページ)はサブパス配信のためbaseを合わせる。
+  base: '/game-trend-dashboard/',
 })
