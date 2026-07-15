@@ -27,6 +27,19 @@ jobs:
       - run: python collector/discover_games.py
       - run: python collector/collect_store_rank.py
       - run: python collector/collect_trends.py
+
+      # Twitch/YouTubeはSecrets未設定の間は失敗するが、他の収集・スコアリングは
+      # 止めたくないため continue-on-error で握りつぶす
+      - run: python collector/collect_twitch.py
+        continue-on-error: true
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+      - run: python collector/collect_youtube.py
+        continue-on-error: true
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
       - run: python collector/scoring.py
 
       - name: Commit and push
