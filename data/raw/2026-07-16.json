@@ -1138,5 +1138,605 @@
     "source": "steam_concurrent",
     "game_id": "デジモンストーリー-タイムストレンジャー",
     "value": 2062
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "七つの大罪-origin",
+    "value": 2
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "shadowverse-worlds-beyond",
+    "value": 9
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "efootball",
+    "value": 28
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "nte-neverness-to-everness",
+    "value": 11
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "モンスターストライク",
+    "value": 30
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "崩壊-スターレイル",
+    "value": 29
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "パズル-ドラゴンズ",
+    "value": 27
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ホワイトアウト-サバイバル",
+    "value": 26
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "pokémon-go",
+    "value": 22
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ドラゴンボールz-ドッカンバトル",
+    "value": 25
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ラストウォー-サバイバル",
+    "value": 23
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ゴシップハーバー-マージ-ストーリー",
+    "value": 21
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "キングショット",
+    "value": 20
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "白猫プロジェクト",
+    "value": 19
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "efootball-ウイコレ-champion-squads",
+    "value": 16
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "あんさんぶるスターズ-music",
+    "value": 15
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "トゥーンブラスト",
+    "value": 17
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ロイヤルマッチ-royal-match",
+    "value": 14
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "パズル-サバイバル",
+    "value": 13
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "pokémon-tcg-pocket",
+    "value": 12
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "勝利の女神-nikke",
+    "value": 18
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "pokémon-sleep",
+    "value": 11
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ディズニー-ツイステッドワンダーランド",
+    "value": 3
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ガーデンスケイプ-gardenscapes",
+    "value": 8
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "イナズマイレブン-クロス",
+    "value": 10
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "line-ポコポコ-3マッチパズルゲーム",
+    "value": 4
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ブロスタ",
+    "value": 6
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "荒野行動-スマホ版バトロワ",
+    "value": 7
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ドラゴンクエストウォーク-歩く楽しみが増える位置情報ゲーム",
+    "value": 5
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "グルメ-ジャーニー",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "arknights",
+    "value": 30
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "アークナイツ",
+    "value": 29
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "명일방주",
+    "value": 28
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "valor-legends-shoot-run",
+    "value": 27
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "cookierun-tower-of-adventures",
+    "value": 26
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "free-fire-max",
+    "value": 25
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "アスファルト-legends",
+    "value": 24
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ディズニー-スピードストーム",
+    "value": 23
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "odin-valhalla-rising",
+    "value": 22
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ファームヒーロー",
+    "value": 21
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "君主の道",
+    "value": 20
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "game-of-thrones-kingsroad",
+    "value": 19
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "俺だけレベルアップな件-arise-俺アラ",
+    "value": 18
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ソニックランブル-パーティ-白熱オンラインパーティゲーム",
+    "value": 17
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "クラッシュ-オブ-クラン-clash-of-clans",
+    "value": 16
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "クラッシュ-ロワイヤル-clash-royale",
+    "value": 15
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "エボニー-王の帰還",
+    "value": 14
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "ムーンライト-ピークス-ヴァンパイアのゴシックライフ",
+    "value": 10
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "リアル麻雀-雀龍門m-麻雀ゲーム",
+    "value": 9
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "リネージュm-本格スマホmmorpg",
+    "value": 8
+  },
+  {
+    "collected_at": "2026-07-16T11:05:10.721894+09:00",
+    "source": "store_rank",
+    "game_id": "デジモンup",
+    "value": 24
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "nba-2k26",
+    "value": 0.0020473157415832575
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "satisfactory",
+    "value": 0.0675614194722475
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "elden-ring-nightreign",
+    "value": 0.0005686988171064604
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ペルソナ５-the-phantom-x",
+    "value": 0.0007961783439490446
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "活俠傳",
+    "value": 0.30735979979524514
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "factory-town-2-paradise",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "モンスターストライク",
+    "value": 0.013422818791946308
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "崩壊-スターレイル",
+    "value": 0.3268115117734046
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "パズル-ドラゴンズ",
+    "value": 0.006028893186213172
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ホワイトアウト-サバイバル",
+    "value": 0.022636787623706064
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "pokémon-go",
+    "value": 0.3466044818564441
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ドラゴンボールz-ドッカンバトル",
+    "value": 0.00045501080650665453
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ラストウォー-サバイバル",
+    "value": 0.0011388224575788635
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ゴシップハーバー-マージ-ストーリー",
+    "value": 0.0005694112287894318
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "キングショット",
+    "value": 0.1299396424097483
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "白猫プロジェクト",
+    "value": 0.2662566905819383
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ディズニー-ツイステッドワンダーランド",
+    "value": 0.0025048388933166343
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ガーデンスケイプ-gardenscapes",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "イナズマイレブン-クロス",
+    "value": 0.15962655129226916
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "line-ポコポコ-3マッチパズルゲーム",
+    "value": 0.0011385631333257428
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ブロスタ",
+    "value": 1.9099590723055933
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "荒野行動-スマホ版バトロワ",
+    "value": 0.00019489378288832586
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ドラゴンクエストウォーク-歩く楽しみが増える位置情報ゲーム",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ウマ娘-プリティーダービー",
+    "value": 0.005846813486649775
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ラストz-サバイバルシューティング",
+    "value": 0.0015015015015015015
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "グルメ-ジャーニー",
+    "value": 0.006193693693693694
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "arknights",
+    "value": 0.0411036036036036
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "アークナイツ",
+    "value": 1.2408033033033032
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "명일방주",
+    "value": 0.0003415689399977229
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "valor-legends-shoot-run",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "cookierun-tower-of-adventures",
+    "value": 0.0005692815666628714
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "free-fire-max",
+    "value": 0.0020494136399863373
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "アスファルト-legends",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ディズニー-スピードストーム",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "odin-valhalla-rising",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ファームヒーロー",
+    "value": 0.0003419193070435378
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "君主の道",
+    "value": 0.00022794620469569182
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "game-of-thrones-kingsroad",
+    "value": 0.0003419193070435378
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "俺だけレベルアップな件-arise-俺アラ",
+    "value": 0.0012537041258263051
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ソニックランブル-パーティ-白熱オンラインパーティゲーム",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "リアル麻雀-雀龍門m-麻雀ゲーム",
+    "value": 0.0002277385561375541
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "リネージュm-本格スマホmmorpg",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "full-stride",
+    "value": 0.004213163288544751
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ebaseball-pro-spirit",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "風燕伝-where-winds-meet",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "デジモンストーリー-タイムストレンジャー",
+    "value": 0.35776462395543174
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "デジモンup",
+    "value": 0.35584958217270196
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "ドールズフロントライン2-エクシリウム",
+    "value": 0.0015668523676880223
+  },
+  {
+    "collected_at": "2026-07-16T11:09:08.113450+09:00",
+    "source": "trends_index",
+    "game_id": "イナズマイレブン-英雄たちのヴィクトリーロード",
+    "value": 0.04600318833978593
   }
 ]

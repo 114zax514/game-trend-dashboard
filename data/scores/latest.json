@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T07:22:56.370279+09:00",
+  "updated_at": "2026-07-16T11:09:08.552072+09:00",
   "games": [
     {
       "game_id": "エーペックスレジェンズ",
@@ -11,11 +11,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 48.6,
+        "level": 48.7,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 60245.0,
+        "steam_concurrent": 59837.5,
         "trends_index": 0.0013462244523314158
       }
     },
@@ -33,7 +33,7 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 826605.0,
+        "steam_concurrent": 661493.5,
         "trends_index": 0.0
       }
     },
@@ -47,11 +47,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 70.3,
+        "level": 69.7,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 6321.0,
+        "steam_concurrent": 5794.5,
         "store_rank": 2.0,
         "trends_index": 0.02631256884102313
       }
@@ -66,11 +66,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 94.6,
+        "level": 94.7,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 52477.0,
+        "steam_concurrent": 52658.0,
         "trends_index": 0.4087626973442663
       }
     },
@@ -80,15 +80,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 24.1,
+        "level": 30.3,
         "momentum": null
       },
       "attention": {
-        "level": 95.9,
+        "level": 96.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 5649.0,
+        "steam_concurrent": 5525.0,
         "trends_index": 0.5770722249151721
       }
     },
@@ -98,15 +98,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 96.6,
+        "level": 97.0,
         "momentum": null
       },
       "attention": {
-        "level": 1.4,
+        "level": 1.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 498522.0,
+        "steam_concurrent": 510642.0,
         "trends_index": 0.0
       }
     },
@@ -116,15 +116,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 65.5,
+        "level": 69.7,
         "momentum": null
       },
       "attention": {
-        "level": 79.7,
+        "level": 80.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 27560.0,
+        "steam_concurrent": 28899.5,
         "trends_index": 0.07028599127484246
       }
     },
@@ -138,12 +138,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 41.9,
+        "level": 42.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 3895.0,
-        "store_rank": 7.0,
+        "steam_concurrent": 4440.5,
+        "store_rank": 8.0,
         "trends_index": 0.0007270964614638876
       }
     },
@@ -153,15 +153,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 89.7,
+        "level": 90.9,
         "momentum": null
       },
       "attention": {
-        "level": 74.3,
+        "level": 72.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 83349.0,
+        "steam_concurrent": 79229.5,
         "trends_index": 0.0374577090381827
       }
     },
@@ -171,15 +171,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 72.4,
+        "level": 78.8,
         "momentum": null
       },
       "attention": {
-        "level": 97.3,
+        "level": 97.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 47963.0,
+        "steam_concurrent": 50832.5,
         "trends_index": 0.6963508941517641
       }
     },
@@ -193,11 +193,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 32.4,
+        "level": 25.0,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 143160.0,
+        "steam_concurrent": 136154.5,
         "trends_index": 0.0002416626389560174
       }
     },
@@ -211,11 +211,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 75.7,
+        "level": 76.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 13959.0,
+        "steam_concurrent": 13543.5,
         "trends_index": 0.05956984050265829
       }
     },
@@ -229,11 +229,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 85.1,
+        "level": 85.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 356.0,
+        "steam_concurrent": 401.0,
         "trends_index": 0.22908342414335875
       }
     },
@@ -247,11 +247,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 47.3,
+        "level": 47.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 20917.0,
+        "steam_concurrent": 19398.5,
         "store_rank": 28.0,
         "trends_index": 0.0013318803729265043
       }
@@ -262,15 +262,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 13.8,
+        "level": 21.2,
         "momentum": null
       },
       "attention": {
-        "level": 33.8,
+        "level": 28.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 3523.0,
+        "steam_concurrent": 3813.5,
         "trends_index": 0.0003632401017072285
       }
     },
@@ -280,15 +280,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 69.0,
+        "level": 72.7,
         "momentum": null
       },
       "attention": {
-        "level": 67.6,
+        "level": 67.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 31398.0,
+        "steam_concurrent": 30394.0,
         "trends_index": 0.018283085119263832
       }
     },
@@ -298,15 +298,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 31.0,
+        "level": 36.4,
         "momentum": null
       },
       "attention": {
-        "level": 62.2,
+        "level": 61.8,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 7140.0,
+        "steam_concurrent": 8092.0,
         "trends_index": 0.005327521491706017
       }
     },
@@ -320,11 +320,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 77.0,
+        "level": 77.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 25432.0,
+        "steam_concurrent": 16207.5,
         "trends_index": 0.06344593776486257
       }
     },
@@ -334,15 +334,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 58.6,
+        "level": 66.7,
         "momentum": null
       },
       "attention": {
-        "level": 82.4,
+        "level": 82.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 22713.0,
+        "steam_concurrent": 22222.0,
         "trends_index": 0.14226903983533115
       }
     },
@@ -352,15 +352,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 26.0,
+        "level": 28.0,
         "momentum": null
       },
       "attention": {
-        "level": 35.1,
+        "level": 30.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 5451.0,
+        "steam_concurrent": 5012.5,
         "store_rank": 11.0,
         "trends_index": 0.0003632401017072285
       }
@@ -371,7 +371,7 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 41.4,
+        "level": 48.5,
         "momentum": null
       },
       "attention": {
@@ -379,7 +379,7 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 13605.0
+        "steam_concurrent": 13403.0
       }
     },
     {
@@ -388,7 +388,7 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 75.9,
+        "level": 75.8,
         "momentum": null
       },
       "attention": {
@@ -396,7 +396,7 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 50661.0
+        "steam_concurrent": 47874.5
       }
     },
     {
@@ -413,7 +413,7 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 8523.0
+        "steam_concurrent": 9311.5
       }
     },
     {
@@ -422,7 +422,7 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 86.2,
+        "level": 87.9,
         "momentum": null
       },
       "attention": {
@@ -430,7 +430,7 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 64231.0
+        "steam_concurrent": 61065.5
       }
     },
     {
@@ -439,16 +439,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 48.3,
+        "level": 54.5,
         "momentum": null
       },
       "attention": {
-        "level": 44.6,
+        "level": 52.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 14669.0,
-        "trends_index": 0.0010895883777239709
+        "steam_concurrent": 15396.5,
+        "trends_index": 0.0015684520596536142
       }
     },
     {
@@ -457,16 +457,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 51.7,
+        "level": 60.6,
         "momentum": null
       },
       "attention": {
-        "level": 78.4,
+        "level": 78.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 18659.0,
-        "trends_index": 0.06731234866828087
+        "steam_concurrent": 17485.0,
+        "trends_index": 0.06743688407026419
       }
     },
     {
@@ -475,16 +475,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 37.9,
+        "level": 45.5,
         "momentum": null
       },
       "attention": {
-        "level": 52.7,
+        "level": 46.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 10373.0,
-        "trends_index": 0.0018159806295399514
+        "steam_concurrent": 10817.5,
+        "trends_index": 0.001192339723323206
       }
     },
     {
@@ -497,12 +497,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 39.2,
+        "level": 39.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 2376.0,
-        "trends_index": 0.0006053268765133171
+        "steam_concurrent": 2060.0,
+        "trends_index": 0.0007007526102311809
       }
     },
     {
@@ -511,16 +511,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 6.9,
+        "level": 9.1,
         "momentum": null
       },
       "attention": {
-        "level": 87.8,
+        "level": 88.2,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 704.0,
-        "trends_index": 0.30798110693956643
+        "steam_concurrent": 778.5,
+        "trends_index": 0.3076704533674058
       }
     },
     {
@@ -529,15 +529,15 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": 0.0,
+        "level": 3.0,
         "momentum": null
       },
       "attention": {
-        "level": 2.7,
+        "level": 2.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 212.0,
+        "steam_concurrent": 200.0,
         "trends_index": 0.0
       }
     },
@@ -551,12 +551,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 66.2,
+        "level": 65.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 30.0,
-        "trends_index": 0.012474264260627347
+        "trends_index": 0.012948541526286828
       }
     },
     {
@@ -569,12 +569,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 89.2,
+        "level": 89.5,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 29.0,
-        "trends_index": 0.33050744822574785
+        "trends_index": 0.32865947999957623
       }
     },
     {
@@ -587,12 +587,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 60.8,
+        "level": 63.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 27.0,
-        "trends_index": 0.005207702555407533
+        "trends_index": 0.005618297870810352
       }
     },
     {
@@ -605,12 +605,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 68.9,
+        "level": 68.4,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 26.0,
-        "trends_index": 0.022647450647935087
+        "trends_index": 0.022642119135820576
       }
     },
     {
@@ -619,16 +619,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 74.0,
+        "level": 68.0,
         "momentum": null
       },
       "attention": {
-        "level": 91.9,
+        "level": 92.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 24.0,
-        "trends_index": 0.3508538210003633
+        "store_rank": 23.0,
+        "trends_index": 0.34872915142840366
       }
     },
     {
@@ -641,12 +641,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 4.1,
+        "level": 23.7,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 25.0,
-        "trends_index": 0.0
+        "trends_index": 0.00022750540325332727
       }
     },
     {
@@ -664,7 +664,7 @@
       },
       "platforms_breakdown": {
         "store_rank": 23.0,
-        "trends_index": 0.0015744217027976264
+        "trends_index": 0.001356622080188245
       }
     },
     {
@@ -677,12 +677,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 5.4,
+        "level": 27.6,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 21.0,
-        "trends_index": 0.0
+        "trends_index": 0.0002847056143947159
       }
     },
     {
@@ -695,12 +695,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 81.1,
+        "level": 81.6,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 20.0,
-        "trends_index": 0.129950345161681
+        "trends_index": 0.12994499378571467
       }
     },
     {
@@ -713,12 +713,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 86.5,
+        "level": 86.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 19.0,
-        "trends_index": 0.27007387671066974
+        "trends_index": 0.268165283646304
       }
     },
     {
@@ -727,15 +727,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 50.0,
+        "level": 48.0,
         "momentum": null
       },
       "attention": {
-        "level": 6.8,
+        "level": 3.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 18.0,
+        "store_rank": 17.0,
         "trends_index": 0.0
       }
     },
@@ -745,15 +745,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 46.0,
+        "level": 40.0,
         "momentum": null
       },
       "attention": {
-        "level": 8.1,
+        "level": 5.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 17.0,
+        "store_rank": 16.0,
         "trends_index": 0.0
       }
     },
@@ -763,15 +763,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 42.0,
+        "level": 44.0,
         "momentum": null
       },
       "attention": {
-        "level": 9.5,
+        "level": 6.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 16.0,
+        "store_rank": 16.5,
         "trends_index": 0.0
       }
     },
@@ -785,7 +785,7 @@
         "momentum": null
       },
       "attention": {
-        "level": 10.8,
+        "level": 7.9,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -803,7 +803,7 @@
         "momentum": null
       },
       "attention": {
-        "level": 59.5,
+        "level": 57.9,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -821,7 +821,7 @@
         "momentum": null
       },
       "attention": {
-        "level": 12.2,
+        "level": 9.2,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -835,15 +835,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 38.0,
+        "level": 46.0,
         "momentum": null
       },
       "attention": {
-        "level": 73.0,
+        "level": 71.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 15.0,
+        "store_rank": 16.5,
         "trends_index": 0.035623409669211195
       }
     },
@@ -853,15 +853,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 8.0,
+        "level": 14.0,
         "momentum": null
       },
       "attention": {
-        "level": 55.4,
+        "level": 56.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 5.0,
+        "store_rank": 8.0,
         "trends_index": 0.0030292015024839455
       }
     },
@@ -871,16 +871,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 10.0,
+        "level": 6.0,
         "momentum": null
       },
       "attention": {
-        "level": 54.1,
+        "level": 53.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 6.0,
-        "trends_index": 0.0019377497880586167
+        "store_rank": 4.5,
+        "trends_index": 0.0022212943406876256
       }
     },
     {
@@ -893,11 +893,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 13.5,
+        "level": 10.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 9.0,
+        "store_rank": 8.5,
         "trends_index": 0.0
       }
     },
@@ -907,16 +907,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 28.0,
+        "level": 26.0,
         "momentum": null
       },
       "attention": {
-        "level": 83.8,
+        "level": 84.2,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 11.0,
-        "trends_index": 0.15647329538573332
+        "store_rank": 10.5,
+        "trends_index": 0.15804992333900125
       }
     },
     {
@@ -929,12 +929,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 14.9,
+        "level": 36.8,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 3.0,
-        "trends_index": 0.0
+        "store_rank": 3.5,
+        "trends_index": 0.0005692815666628714
       }
     },
     {
@@ -943,7 +943,7 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 14.0,
+        "level": 10.0,
         "momentum": null
       },
       "attention": {
@@ -951,8 +951,8 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 8.0,
-        "trends_index": 1.9105580400544429
+        "store_rank": 7.0,
+        "trends_index": 1.910258556180018
       }
     },
     {
@@ -961,16 +961,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 22.0,
+        "level": 20.0,
         "momentum": null
       },
       "attention": {
-        "level": 16.2,
+        "level": 22.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 10.0,
-        "trends_index": 0.0
+        "store_rank": 8.5,
+        "trends_index": 9.744689144416293e-05
       }
     },
     {
@@ -979,15 +979,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 6.0,
+        "level": 8.0,
         "momentum": null
       },
       "attention": {
-        "level": 17.6,
+        "level": 11.8,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 4.0,
+        "store_rank": 4.5,
         "trends_index": 0.0
       }
     },
@@ -1001,11 +1001,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 64.9,
+        "level": 64.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.006610927474236827
+        "trends_index": 0.006228870480443301
       }
     },
     {
@@ -1018,11 +1018,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 18.9,
+        "level": 43.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.0
+        "trends_index": 0.0007507507507507507
       }
     },
     {
@@ -1035,12 +1035,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 58.1,
+        "level": 59.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 1.0,
-        "trends_index": 0.003249097472924188
+        "trends_index": 0.004721395583308941
       }
     },
     {
@@ -1053,12 +1053,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 71.6,
+        "level": 73.7,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 30.0,
-        "trends_index": 0.03429602888086643
+        "trends_index": 0.037699816242235014
       }
     },
     {
@@ -1071,12 +1071,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 98.6,
+        "level": 98.7,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 29.0,
-        "trends_index": 1.2342960288808664
+        "trends_index": 1.2375496660920848
       }
     },
     {
@@ -1089,12 +1089,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 40.5,
+        "level": 35.5,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 28.0,
-        "trends_index": 0.0007266561705219813
+        "trends_index": 0.0005341125552598521
       }
     },
     {
@@ -1107,7 +1107,7 @@
         "momentum": null
       },
       "attention": {
-        "level": 20.3,
+        "level": 13.2,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -1125,12 +1125,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 21.6,
+        "level": 26.3,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 26.0,
-        "trends_index": 0.0
+        "trends_index": 0.0002846407833314357
       }
     },
     {
@@ -1143,12 +1143,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 56.8,
+        "level": 55.3,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 25.0,
-        "trends_index": 0.003148843405595253
+        "trends_index": 0.002599128522790795
       }
     },
     {
@@ -1161,7 +1161,7 @@
         "momentum": null
       },
       "attention": {
-        "level": 23.0,
+        "level": 14.5,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -1179,7 +1179,7 @@
         "momentum": null
       },
       "attention": {
-        "level": 24.3,
+        "level": 15.8,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -1197,12 +1197,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 43.2,
+        "level": 34.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 22.0,
-        "trends_index": 0.0008478682170542637
+        "trends_index": 0.00042393410852713183
       }
     },
     {
@@ -1215,12 +1215,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 36.5,
+        "level": 31.6,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 21.0,
-        "trends_index": 0.00048449612403100775
+        "trends_index": 0.00041320771553727273
       }
     },
     {
@@ -1233,12 +1233,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 45.9,
+        "level": 40.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 20.0,
-        "trends_index": 0.0012112403100775194
+        "trends_index": 0.0007195932573866056
       }
     },
     {
@@ -1251,12 +1251,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 37.8,
+        "level": 32.9,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 19.0,
-        "trends_index": 0.00048449612403100775
+        "trends_index": 0.00041320771553727273
       }
     },
     {
@@ -1269,12 +1269,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 25.7,
+        "level": 38.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 18.0,
-        "trends_index": 0.0
+        "trends_index": 0.0006268520629131526
       }
     },
     {
@@ -1283,11 +1283,11 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 48.0,
+        "level": 50.0,
         "momentum": null
       },
       "attention": {
-        "level": 27.0,
+        "level": 17.1,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -1301,7 +1301,7 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 44.0,
+        "level": 42.0,
         "momentum": null
       },
       "attention": {
@@ -1318,7 +1318,7 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 40.0,
+        "level": 38.0,
         "momentum": null
       },
       "attention": {
@@ -1369,16 +1369,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 20.0,
+        "level": 22.0,
         "momentum": null
       },
       "attention": {
-        "level": 51.4,
+        "level": 44.7,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 9.0,
-        "trends_index": 0.001574993942330991
+        "trends_index": 0.0009013662492342726
       }
     },
     {
@@ -1391,7 +1391,7 @@
         "momentum": null
       },
       "attention": {
-        "level": 28.4,
+        "level": 18.4,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -1405,15 +1405,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": null,
+        "level": 0.0,
         "momentum": null
       },
       "attention": {
-        "level": 63.5,
+        "level": 60.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.005330748727889508
+        "trends_index": 0.004771956008217129,
+        "steam_concurrent": 163.0
       }
     },
     {
@@ -1426,11 +1427,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 29.7,
+        "level": 19.7,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.0
+        "trends_index": 0.0,
+        "steam_concurrent": 1354.0
       }
     },
     {
@@ -1443,11 +1445,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 31.1,
+        "level": 21.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.0001805054151624549
+        "trends_index": 9.025270758122745e-05,
+        "steam_concurrent": 8370.0
       }
     },
     {
@@ -1456,15 +1459,16 @@
       "category": "premium",
       "needs_review": true,
       "category_core": {
-        "level": null,
+        "level": 18.2,
         "momentum": null
       },
       "attention": {
-        "level": 93.2,
+        "level": 93.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.35703971119133576
+        "trends_index": 0.3574021675733837,
+        "steam_concurrent": 2062.0
       }
     },
     {
@@ -1473,16 +1477,50 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 68.0,
+        "level": 74.0,
         "momentum": null
       },
       "attention": {
-        "level": 90.5,
+        "level": 90.8,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 22.0,
-        "trends_index": 0.33610108303249103
+        "store_rank": 23.0,
+        "trends_index": 0.3459753326025965
+      }
+    },
+    {
+      "game_id": "ドールズフロントライン2-エクシリウム",
+      "name": "ドールズフロントライン2：エクシリウム",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": 51.3,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "trends_index": 0.0015668523676880223
+      }
+    },
+    {
+      "game_id": "イナズマイレブン-英雄たちのヴィクトリーロード",
+      "name": "イナズマイレブン 英雄たちのヴィクトリーロード",
+      "category": "premium",
+      "needs_review": true,
+      "category_core": {
+        "level": null,
+        "momentum": null
+      },
+      "attention": {
+        "level": 75.0,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "trends_index": 0.04600318833978593
       }
     }
   ]

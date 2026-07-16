@@ -745,3 +745,21 @@
     twitch_game_id: null
     ios_app_id: '6756247422'
     android_package: null
+- game_id: ドールズフロントライン2-エクシリウム
+  name: ドールズフロントライン2：エクシリウム
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 3308670
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: イナズマイレブン-英雄たちのヴィクトリーロード
+  name: イナズマイレブン 英雄たちのヴィクトリーロード
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2799860
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
