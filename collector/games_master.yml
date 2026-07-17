@@ -536,7 +536,7 @@
   platforms:
     steam_appid: null
     twitch_game_id: null
-    ios_app_id: null
+    ios_app_id: '1478990007'
     android_package: com.YoStarJP.Arknights
 - game_id: 명일방주
   name: 명일방주
@@ -762,4 +762,103 @@
     steam_appid: 2799860
     twitch_game_id: null
     ios_app_id: null
+    android_package: null
+- game_id: 亰都ザナドゥ-桜花幻舞
+  name: 亰都ザナドゥ -桜花幻舞-
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4449410
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ハートピアスローライフ
+  name: ハートピアスローライフ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 4025700
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ブループロトコル-スターレゾナンス
+  name: ブループロトコル：スターレゾナンス
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 4073960
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: powerwash-simulator-2
+  name: PowerWash Simulator 2
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2968420
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: vrchat
+  name: VRChat
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 438100
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: dead-or-alive-xtreme-venus-vacation
+  name: DEAD OR ALIVE Xtreme Venus Vacation
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1361350
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: powerwash-simulator-2-star-wars-pack
+  name: PowerWash Simulator 2 - STAR WARS Pack
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4229450
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: アークナイツ-エンドフィールド
+  name: アークナイツ：エンドフィールド
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6752642477'
+    android_package: null
+- game_id: ドラゴンクエストタクト-ドラクエのタクティクスrpg
+  name: ドラゴンクエストタクト ドラクエのタクティクスRPG
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1516559313'
+    android_package: null
+- game_id: sdガンダム-ジージェネレーション-エターナル
+  name: SDガンダム ジージェネレーション エターナル
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6692611665'
+    android_package: null
+- game_id: グランブルーファンタジー
+  name: グランブルーファンタジー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '852882903'
     android_package: null
