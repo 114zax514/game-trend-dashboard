@@ -4,7 +4,7 @@
   needs_review: true
   platforms:
     steam_appid: 1172470
-    twitch_game_id: null
+    twitch_game_id: '511224'
     ios_app_id: null
     android_package: null
 - game_id: counter-strike-2
@@ -40,7 +40,7 @@
   needs_review: true
   platforms:
     steam_appid: 2244210
-    twitch_game_id: null
+    twitch_game_id: '1174919094'
     ios_app_id: null
     android_package: null
 - game_id: palworld-パルワールド
@@ -58,7 +58,7 @@
   needs_review: true
   platforms:
     steam_appid: 881020
-    twitch_game_id: null
+    twitch_game_id: '493081'
     ios_app_id: null
     android_package: null
 - game_id: shadowverse-worlds-beyond
@@ -67,7 +67,7 @@
   needs_review: true
   platforms:
     steam_appid: 2584990
-    twitch_game_id: null
+    twitch_game_id: '114524791'
     ios_app_id: '6472019540'
     android_package: null
 - game_id: デッドバイデイライト
@@ -76,7 +76,7 @@
   needs_review: true
   platforms:
     steam_appid: 381210
-    twitch_game_id: null
+    twitch_game_id: '491487'
     ios_app_id: null
     android_package: null
 - game_id: めっちゃカメレオン
@@ -94,7 +94,7 @@
   needs_review: true
   platforms:
     steam_appid: 578080
-    twitch_game_id: null
+    twitch_game_id: '493057'
     ios_app_id: null
     android_package: null
 - game_id: wuthering-waves
@@ -103,7 +103,7 @@
   needs_review: true
   platforms:
     steam_appid: 3513350
-    twitch_game_id: null
+    twitch_game_id: '209738946'
     ios_app_id: null
     android_package: null
 - game_id: 星の翼
@@ -130,7 +130,7 @@
   needs_review: true
   platforms:
     steam_appid: 2569760
-    twitch_game_id: null
+    twitch_game_id: '1844320959'
     ios_app_id: null
     android_package: null
 - game_id: ark-survival-ascended
@@ -139,7 +139,7 @@
   needs_review: true
   platforms:
     steam_appid: 2399830
-    twitch_game_id: null
+    twitch_game_id: '735904419'
     ios_app_id: null
     android_package: null
 - game_id: street-fighter-6
@@ -148,7 +148,7 @@
   needs_review: true
   platforms:
     steam_appid: 1364780
-    twitch_game_id: null
+    twitch_game_id: '55453844'
     ios_app_id: null
     android_package: null
 - game_id: limbus-company
@@ -157,7 +157,7 @@
   needs_review: true
   platforms:
     steam_appid: 1973530
-    twitch_game_id: null
+    twitch_game_id: '1280007947'
     ios_app_id: null
     android_package: null
 - game_id: forza-horizon-6
@@ -166,7 +166,7 @@
   needs_review: true
   platforms:
     steam_appid: 2483190
-    twitch_game_id: null
+    twitch_game_id: '1991115310'
     ios_app_id: null
     android_package: null
 - game_id: nte-neverness-to-everness
@@ -175,7 +175,7 @@
   needs_review: true
   platforms:
     steam_appid: 4508340
-    twitch_game_id: null
+    twitch_game_id: '1901865180'
     ios_app_id: null
     android_package: com.hottagames.nte
 - game_id: escape-from-tarkov
@@ -184,7 +184,7 @@
   needs_review: true
   platforms:
     steam_appid: 3932890
-    twitch_game_id: null
+    twitch_game_id: '491931'
     ios_app_id: null
     android_package: null
 - game_id: アサシン-クリード-ブラック-フラッグ-re-シンクロ
@@ -202,7 +202,7 @@
   needs_review: true
   platforms:
     steam_appid: 1449850
-    twitch_game_id: null
+    twitch_game_id: '1119642287'
     ios_app_id: null
     android_package: null
 - game_id: グランド-セフト-オートv-エンハンスト
@@ -220,7 +220,7 @@
   needs_review: true
   platforms:
     steam_appid: 3472040
-    twitch_game_id: null
+    twitch_game_id: '2112738408'
     ios_app_id: null
     android_package: null
 - game_id: satisfactory
@@ -229,7 +229,7 @@
   needs_review: true
   platforms:
     steam_appid: 526870
-    twitch_game_id: null
+    twitch_game_id: '506456'
     ios_app_id: null
     android_package: null
 - game_id: elden-ring-nightreign
@@ -238,7 +238,7 @@
   needs_review: true
   platforms:
     steam_appid: 2622380
-    twitch_game_id: null
+    twitch_game_id: '982348888'
     ios_app_id: null
     android_package: null
 - game_id: ペルソナ５-the-phantom-x
@@ -256,7 +256,7 @@
   needs_review: true
   platforms:
     steam_appid: 1859910
-    twitch_game_id: null
+    twitch_game_id: '554986534'
     ios_app_id: null
     android_package: null
 - game_id: factory-town-2-paradise
@@ -265,7 +265,7 @@
   needs_review: true
   platforms:
     steam_appid: 3312130
-    twitch_game_id: null
+    twitch_game_id: '244621884'
     ios_app_id: null
     android_package: null
 - game_id: モンスターストライク
@@ -283,7 +283,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '213930085'
     ios_app_id: '1599719154'
     android_package: null
 - game_id: パズル-ドラゴンズ
@@ -310,7 +310,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '490655'
     ios_app_id: '1094591345'
     android_package: null
 - game_id: ドラゴンボールz-ドッカンバトル
@@ -355,7 +355,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '494238'
     ios_app_id: '895687962'
     android_package: null
 - game_id: efootball-ウイコレ-champion-squads
@@ -373,7 +373,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '614889888'
     ios_app_id: '1494428618'
     android_package: null
 - game_id: トゥーンブラスト
@@ -409,7 +409,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '375403621'
     ios_app_id: '6479970832'
     android_package: null
 - game_id: 勝利の女神-nikke
@@ -418,7 +418,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '512033'
     ios_app_id: '1585915174'
     android_package: null
 - game_id: pokémon-sleep
@@ -427,7 +427,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '512786'
     ios_app_id: '1579464667'
     android_package: null
 - game_id: ディズニー-ツイステッドワンダーランド
@@ -436,7 +436,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '2135719898'
     ios_app_id: '1477455989'
     android_package: null
 - game_id: ガーデンスケイプ-gardenscapes
@@ -499,7 +499,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '505084'
     ios_app_id: '1325457827'
     android_package: null
 - game_id: ラストz-サバイバルシューティング
@@ -526,7 +526,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '511554'
     ios_app_id: null
     android_package: com.YoStarEN.Arknights
 - game_id: アークナイツ
@@ -535,7 +535,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '511554'
     ios_app_id: '1478990007'
     android_package: com.YoStarJP.Arknights
 - game_id: 명일방주
@@ -544,7 +544,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '511554'
     ios_app_id: null
     android_package: com.YoStarKR.Arknights
 - game_id: valor-legends-shoot-run
@@ -562,7 +562,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '119674052'
     ios_app_id: null
     android_package: com.devsisters.cba
 - game_id: free-fire-max
@@ -571,7 +571,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '1936295306'
     ios_app_id: null
     android_package: com.dts.freefiremax
 - game_id: アスファルト-legends
@@ -625,7 +625,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '1263723897'
     ios_app_id: null
     android_package: com.netmarble.got
 - game_id: 俺だけレベルアップな件-arise-俺アラ
@@ -706,7 +706,7 @@
   needs_review: true
   platforms:
     steam_appid: 4181970
-    twitch_game_id: null
+    twitch_game_id: '465523985'
     ios_app_id: null
     android_package: null
 - game_id: ebaseball-pro-spirit
@@ -769,7 +769,7 @@
   needs_review: true
   platforms:
     steam_appid: 4449410
-    twitch_game_id: null
+    twitch_game_id: '491247585'
     ios_app_id: null
     android_package: null
 - game_id: ハートピアスローライフ
@@ -796,7 +796,7 @@
   needs_review: true
   platforms:
     steam_appid: 2968420
-    twitch_game_id: null
+    twitch_game_id: '532988445'
     ios_app_id: null
     android_package: null
 - game_id: vrchat
@@ -805,7 +805,7 @@
   needs_review: true
   platforms:
     steam_appid: 438100
-    twitch_game_id: null
+    twitch_game_id: '499003'
     ios_app_id: null
     android_package: null
 - game_id: dead-or-alive-xtreme-venus-vacation
@@ -814,7 +814,7 @@
   needs_review: true
   platforms:
     steam_appid: 1361350
-    twitch_game_id: null
+    twitch_game_id: '953671971'
     ios_app_id: null
     android_package: null
 - game_id: powerwash-simulator-2-star-wars-pack
@@ -832,7 +832,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '1448964995'
     ios_app_id: '6752642477'
     android_package: null
 - game_id: ドラゴンクエストタクト-ドラクエのタクティクスrpg
@@ -859,7 +859,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '489668'
     ios_app_id: '852882903'
     android_package: null
 - game_id: トーチライト-インフィニティ
@@ -877,7 +877,7 @@
   needs_review: true
   platforms:
     steam_appid: 2325290
-    twitch_game_id: null
+    twitch_game_id: '513553'
     ios_app_id: '1462117269'
     android_package: null
 - game_id: capcom-arcade-2nd-stadium
@@ -886,7 +886,7 @@
   needs_review: true
   platforms:
     steam_appid: 1755910
-    twitch_game_id: null
+    twitch_game_id: '1205083456'
     ios_app_id: null
     android_package: null
 - game_id: スローン-アンド-リバティ
