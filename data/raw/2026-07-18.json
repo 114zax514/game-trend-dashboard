@@ -1552,5 +1552,287 @@
     "source": "trends_index",
     "game_id": "ドールズフロントライン2-エクシリウム",
     "value": 0.0005535055350553505
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "エーペックスレジェンズ",
+    "value": 109408
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "counter-strike-2",
+    "value": 654115
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "七つの大罪-origin",
+    "value": 2687
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "オーバーウォッチ",
+    "value": 48744
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "echoes-of-aincrad",
+    "value": 5997
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "palworld-パルワールド",
+    "value": 661713
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "granblue-fantasy-relink",
+    "value": 47039
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "shadowverse-worlds-beyond",
+    "value": 10072
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "デッドバイデイライト",
+    "value": 53384
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "めっちゃカメレオン",
+    "value": 45234
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "pubg-battlegrounds",
+    "value": 364130
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "wuthering-waves",
+    "value": 14685
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "星の翼",
+    "value": 1123
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "efootball",
+    "value": 13484
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "the-mound-omen-of-cthulhu",
+    "value": 2658
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "ark-survival-ascended",
+    "value": 28155
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "street-fighter-6",
+    "value": 19577
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "limbus-company",
+    "value": 47464
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "forza-horizon-6",
+    "value": 29099
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "nte-neverness-to-everness",
+    "value": 4553
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "escape-from-tarkov",
+    "value": 20644
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "アサシン-クリード-ブラック-フラッグ-re-シンクロ",
+    "value": 40063
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "yu-gi-oh-master-duel",
+    "value": 15293
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "グランド-セフト-オートv-エンハンスト",
+    "value": 69951
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "nba-2k26",
+    "value": 27073
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "satisfactory",
+    "value": 14864
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "elden-ring-nightreign",
+    "value": 20994
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "ペルソナ５-the-phantom-x",
+    "value": 2198
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "活俠傳",
+    "value": 2396
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "factory-town-2-paradise",
+    "value": 207
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "full-stride",
+    "value": 354
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "ebaseball-pro-spirit",
+    "value": 3741
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "風燕伝-where-winds-meet",
+    "value": 9963
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "デジモンストーリー-タイムストレンジャー",
+    "value": 2233
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "ドールズフロントライン2-エクシリウム",
+    "value": 933
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "イナズマイレブン-英雄たちのヴィクトリーロード",
+    "value": 1326
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "亰都ザナドゥ-桜花幻舞",
+    "value": 1899
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "ハートピアスローライフ",
+    "value": 14146
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "ブループロトコル-スターレゾナンス",
+    "value": 1241
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "powerwash-simulator-2",
+    "value": 4389
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "vrchat",
+    "value": 56911
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "dead-or-alive-xtreme-venus-vacation",
+    "value": 275
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "powerwash-simulator-2-star-wars-pack",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "トーチライト-インフィニティ",
+    "value": 15547
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "sky-星を紡ぐ子どもたち",
+    "value": 4509
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "capcom-arcade-2nd-stadium",
+    "value": 25
+  },
+  {
+    "collected_at": "2026-07-18T14:55:27.138953+09:00",
+    "source": "steam_concurrent",
+    "game_id": "スローン-アンド-リバティ",
+    "value": 4701
   }
 ]
