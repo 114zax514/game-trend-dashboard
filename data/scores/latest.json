@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T20:29:52.939060+09:00",
+  "updated_at": "2026-07-18T20:36:02.011635+09:00",
   "games": [
     {
       "game_id": "エーペックスレジェンズ",
@@ -11,15 +11,15 @@
         "momentum": null
       },
       "attention": {
-        "level": 76.4,
+        "level": 77.7,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 99007.0,
-        "trends_index": 0.000701344243132671,
-        "twitch_viewers": 19014.0,
-        "twitch_streamers": 97.0,
-        "youtube_video_count": 94042.0
+        "trends_index": 0.0009461228777887958,
+        "twitch_viewers": 18839.0,
+        "twitch_streamers": 97.5,
+        "youtube_video_count": 94054.0
       }
     },
     {
@@ -32,13 +32,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 68.7,
+        "level": 70.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 845971.2,
-        "trends_index": 0.001402688486265342,
-        "youtube_video_count": 90018.0
+        "trends_index": 0.0008799794699994091,
+        "youtube_video_count": 131636.0
       }
     },
     {
@@ -51,13 +51,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 45.1,
+        "level": 44.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 3922.4,
-        "trends_index": 0.029690239625949737,
-        "youtube_video_count": 1265.0
+        "trends_index": 0.02746867584489103,
+        "youtube_video_count": 1264.0
       }
     },
     {
@@ -70,13 +70,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 85.2,
+        "level": 85.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 49248.4,
-        "trends_index": 0.4149620105201637,
-        "youtube_video_count": 86081.0
+        "trends_index": 0.41487650365236484,
+        "youtube_video_count": 86065.0
       }
     },
     {
@@ -89,14 +89,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 77.1,
+        "level": 76.1,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 6064.6,
-        "trends_index": 0.46452367036820574,
-        "twitch_viewers": 7313.0,
-        "twitch_streamers": 99.0,
+        "trends_index": 0.4523142286111093,
+        "twitch_viewers": 7479.0,
+        "twitch_streamers": 99.5,
         "youtube_video_count": 38416.0
       }
     },
@@ -110,12 +110,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 52.4,
+        "level": 52.5,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 650453.2,
-        "trends_index": 0.0010520163646990065,
+        "trends_index": 0.0011213880346952997,
         "youtube_video_count": 64808.0
       }
     },
@@ -129,14 +129,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 63.5,
+        "level": 61.5,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 42213.2,
-        "trends_index": 0.04967855055523086,
-        "twitch_viewers": 1206.0,
-        "twitch_streamers": 87.0,
+        "trends_index": 0.04770186160769402,
+        "twitch_viewers": 1157.5,
+        "twitch_streamers": 84.0,
         "youtube_video_count": 36877.0
       }
     },
@@ -146,19 +146,20 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": null,
+        "level": 7.7,
         "momentum": null
       },
       "attention": {
-        "level": 57.6,
+        "level": 56.4,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 8425.4,
-        "trends_index": 0.001636469900642899,
-        "twitch_viewers": 830.0,
-        "twitch_streamers": 18.0,
-        "youtube_video_count": 55487.0
+        "trends_index": 0.0012945388321980867,
+        "twitch_viewers": 877.0,
+        "twitch_streamers": 19.5,
+        "youtube_video_count": 55487.0,
+        "store_rank": 3.0
       }
     },
     {
@@ -171,13 +172,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 69.7,
+        "level": 69.0,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 61415.2,
-        "trends_index": 0.03870693321990642,
-        "twitch_viewers": 13869.0,
+        "trends_index": 0.038508786249925514,
+        "twitch_viewers": 15101.0,
         "twitch_streamers": 97.0,
         "youtube_video_count": 34974.0
       }
@@ -192,12 +193,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 97.5,
+        "level": 96.7,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 50866.8,
-        "trends_index": 0.882390472139515
+        "trends_index": 0.8922683955435632
       }
     },
     {
@@ -210,14 +211,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 72.8,
+        "level": 73.0,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 319894.4,
-        "trends_index": 0.0004253509145044662,
-        "twitch_viewers": 4572.0,
-        "twitch_streamers": 96.0,
+        "trends_index": 0.00044346244086635725,
+        "twitch_viewers": 4783.5,
+        "twitch_streamers": 98.0,
         "youtube_video_count": 372717.0
       }
     },
@@ -231,13 +232,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 84.1,
+        "level": 83.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 15671.8,
-        "trends_index": 0.056571671629094,
-        "twitch_viewers": 4220.0,
+        "trends_index": 0.051826108143187666,
+        "twitch_viewers": 4188.0,
         "twitch_streamers": 99.0
       }
     },
@@ -251,13 +252,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 59.7,
+        "level": 64.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 978.2,
-        "trends_index": 0.2061024082300678,
-        "youtube_video_count": 24270.0
+        "trends_index": 0.20681355677606497,
+        "youtube_video_count": 39320.5
       }
     },
     {
@@ -266,17 +267,17 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 89.8,
+        "level": 90.4,
         "momentum": null
       },
       "attention": {
-        "level": 31.6,
+        "level": 46.7,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 18655.8,
         "store_rank": 28.0,
-        "trends_index": 0.00046761748889408465
+        "trends_index": 0.0009481795028706641
       }
     },
     {
@@ -289,14 +290,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 50.0,
+        "level": 54.0,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 3039.6,
-        "trends_index": 0.000701426233341127,
-        "twitch_viewers": 771.0,
-        "twitch_streamers": 50.0,
+        "trends_index": 0.0013627383577706944,
+        "twitch_viewers": 757.0,
+        "twitch_streamers": 48.0,
         "youtube_video_count": 40328.0
       }
     },
@@ -315,8 +316,8 @@
       },
       "platforms_breakdown": {
         "steam_concurrent": 29110.2,
-        "trends_index": 0.01788636895019874,
-        "twitch_viewers": 2423.0,
+        "trends_index": 0.019599214954918398,
+        "twitch_viewers": 2372.5,
         "twitch_streamers": 100.0
       }
     },
@@ -330,13 +331,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 75.6,
+        "level": 76.0,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 16105.0,
-        "trends_index": 0.004559270516717326,
-        "twitch_viewers": 4138.0,
+        "trends_index": 0.003886969464811812,
+        "twitch_viewers": 4173.0,
         "twitch_streamers": 100.0,
         "youtube_video_count": 89617.0
       }
@@ -351,13 +352,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 57.6,
+        "level": 57.3,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 37891.4,
-        "trends_index": 0.04559270516717325,
-        "twitch_viewers": 31.0,
+        "trends_index": 0.04529903147393072,
+        "twitch_viewers": 34.0,
         "twitch_streamers": 4.0,
         "youtube_video_count": 76743.0
       }
@@ -372,14 +373,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 80.2,
+        "level": 79.3,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 31382.4,
-        "trends_index": 0.14484451718494273,
-        "twitch_viewers": 726.0,
-        "twitch_streamers": 100.0,
+        "trends_index": 0.1479669662957694,
+        "twitch_viewers": 719.0,
+        "twitch_streamers": 98.5,
         "youtube_video_count": 100548.0
       }
     },
@@ -389,18 +390,18 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 26.5,
+        "level": 30.8,
         "momentum": null
       },
       "attention": {
-        "level": 56.8,
+        "level": 53.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 5251.4,
         "store_rank": 11.0,
-        "trends_index": 0.00023380874444704232,
-        "twitch_viewers": 1672.0,
+        "trends_index": 0.00011690437222352116,
+        "twitch_viewers": 1644.5,
         "twitch_streamers": 100.0,
         "youtube_video_count": 83136.0
       }
@@ -415,13 +416,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 81.5,
+        "level": 82.0,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 20535.4,
-        "trends_index": 0.009352349777881692,
-        "twitch_viewers": 8710.0,
+        "trends_index": 0.009855362887512105,
+        "twitch_viewers": 8784.5,
         "twitch_streamers": 100.0,
         "youtube_video_count": 90008.0
       }
@@ -436,12 +437,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 41.9,
+        "level": 42.3,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 49186.6,
-        "trends_index": 0.002338087444470423,
+        "trends_index": 0.0021215380668000404,
         "youtube_video_count": 14134.0
       }
     },
@@ -455,14 +456,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 50.7,
+        "level": 45.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 13524.4,
-        "trends_index": 0.00046761748889408465,
-        "twitch_viewers": 434.0,
-        "twitch_streamers": 32.0,
+        "trends_index": 0.00023380874444704232,
+        "twitch_viewers": 437.5,
+        "twitch_streamers": 31.0,
         "youtube_video_count": 72056.0
       }
     },
@@ -494,14 +495,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 63.5,
+        "level": 63.1,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 22886.4,
-        "trends_index": 0.003740939911152677,
-        "twitch_viewers": 996.0,
-        "twitch_streamers": 98.0
+        "trends_index": 0.0032992114724235823,
+        "twitch_viewers": 1015.5,
+        "twitch_streamers": 98.5
       }
     },
     {
@@ -514,14 +515,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 69.5,
+        "level": 69.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 19266.2,
-        "trends_index": 0.07540332008417115,
-        "twitch_viewers": 661.0,
-        "twitch_streamers": 56.0
+        "trends_index": 0.07627768099696115,
+        "twitch_viewers": 667.5,
+        "twitch_streamers": 58.0
       }
     },
     {
@@ -534,14 +535,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 55.5,
+        "level": 60.5,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 18246.6,
-        "trends_index": 0.0005845218611176058,
-        "twitch_viewers": 1171.0,
-        "twitch_streamers": 100.0,
+        "trends_index": 0.0011852243785883303,
+        "twitch_viewers": 1160.5,
+        "twitch_streamers": 99.0,
         "youtube_video_count": 69508.0
       }
     },
@@ -555,12 +556,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 25.6,
+        "level": 26.3,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 2402.8,
-        "trends_index": 0.0005845218611176058,
+        "trends_index": 0.0006494463097706138,
         "youtube_video_count": 775.0
       }
     },
@@ -574,13 +575,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 44.6,
+        "level": 45.4,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 2005.4,
-        "trends_index": 0.27647884030862757,
-        "twitch_viewers": 8.0,
+        "trends_index": 0.2745814063415012,
+        "twitch_viewers": 7.5,
         "twitch_streamers": 2.0,
         "youtube_video_count": 2142.0
       }
@@ -595,12 +596,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 12.1,
+        "level": 6.5,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 228.4,
-        "trends_index": 0.00023380874444704232,
+        "trends_index": 0.00011690437222352116,
         "twitch_viewers": 0.0,
         "twitch_streamers": 0.0
       }
@@ -611,16 +612,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 93.9,
+        "level": 96.2,
         "momentum": null
       },
       "attention": {
-        "level": 58.5,
+        "level": 58.7,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 29.0,
-        "trends_index": 0.012508767827916765,
+        "store_rank": 29.5,
+        "trends_index": 0.01042204288037896,
         "youtube_video_count": 51384.0
       }
     },
@@ -630,18 +631,18 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 79.6,
+        "level": 78.8,
         "momentum": null
       },
       "attention": {
-        "level": 81.3,
+        "level": 80.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 25.0,
-        "trends_index": 0.38110825344867905,
-        "twitch_viewers": 2648.0,
-        "twitch_streamers": 81.0,
+        "store_rank": 24.0,
+        "trends_index": 0.38179013529780936,
+        "twitch_viewers": 2682.5,
+        "twitch_streamers": 81.5,
         "youtube_video_count": 79064.0
       }
     },
@@ -651,16 +652,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 42.9,
+        "level": 44.2,
         "momentum": null
       },
       "attention": {
-        "level": 64.6,
+        "level": 64.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 16.0,
-        "trends_index": 0.007014262333411269
+        "store_rank": 16.5,
+        "trends_index": 0.00612680251702714
       }
     },
     {
@@ -669,17 +670,17 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 83.7,
+        "level": 84.6,
         "momentum": null
       },
       "attention": {
-        "level": 38.1,
+        "level": 37.9,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 26.0,
-        "trends_index": 0.023380874444704235,
-        "youtube_video_count": 124.0
+        "trends_index": 0.02341942031356431,
+        "youtube_video_count": 167.5
       }
     },
     {
@@ -688,7 +689,7 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 30.6,
+        "level": 61.5,
         "momentum": null
       },
       "attention": {
@@ -696,10 +697,10 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 12.0,
-        "trends_index": 0.36170212765957444,
-        "twitch_viewers": 239.0,
-        "twitch_streamers": 14.0
+        "store_rank": 19.5,
+        "trends_index": 0.3622633048395515,
+        "twitch_viewers": 226.0,
+        "twitch_streamers": 13.5
       }
     },
     {
@@ -708,16 +709,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 14.3,
+        "level": 15.4,
         "momentum": null
       },
       "attention": {
-        "level": 1.3,
+        "level": 38.0,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 8.0,
-        "trends_index": 0.0
+        "store_rank": 7.5,
+        "trends_index": 0.0006549178375803762
       }
     },
     {
@@ -726,15 +727,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 75.5,
+        "level": 73.1,
         "momentum": null
       },
       "attention": {
-        "level": 53.2,
+        "level": 54.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 24.0,
+        "store_rank": 23.0,
         "trends_index": 0.0015197568389057753
       }
     },
@@ -744,15 +745,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 71.4,
+        "level": 76.9,
         "momentum": null
       },
       "attention": {
-        "level": 2.5,
+        "level": 1.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 23.0,
+        "store_rank": 23.5,
         "trends_index": 0.0
       }
     },
@@ -762,15 +763,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 55.1,
+        "level": 57.7,
         "momentum": null
       },
       "attention": {
-        "level": 84.8,
+        "level": 82.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 19.0,
+        "store_rank": 18.5,
         "trends_index": 0.14566284779050737
       }
     },
@@ -784,7 +785,7 @@
         "momentum": null
       },
       "attention": {
-        "level": 46.1,
+        "level": 46.2,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -803,11 +804,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 20.9,
+        "level": 16.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.000701426233341127,
+        "trends_index": 0.0005292845452419921,
         "youtube_video_count": 61.0
       }
     },
@@ -821,13 +822,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 24.5,
+        "level": 16.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.0009352349777881693,
+        "trends_index": 0.0005866651079417036,
         "twitch_viewers": 0.0,
-        "twitch_streamers": 0.0
+        "twitch_streamers": 0.0,
+        "youtube_video_count": 246.0
       }
     },
     {
@@ -836,16 +838,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 38.8,
+        "level": 53.8,
         "momentum": null
       },
       "attention": {
-        "level": 3.8,
+        "level": 47.8,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 15.0,
-        "trends_index": 0.0
+        "store_rank": 17.5,
+        "trends_index": 0.0010119047619047618
       }
     },
     {
@@ -854,16 +856,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 51.0,
+        "level": 63.5,
         "momentum": null
       },
       "attention": {
-        "level": 7.5,
+        "level": 19.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 18.0,
-        "trends_index": 0.0,
+        "store_rank": 19.5,
+        "trends_index": 0.00035714285714285714,
         "youtube_video_count": 348.0
       }
     },
@@ -873,7 +875,7 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 28.6,
+        "level": 34.6,
         "momentum": null
       },
       "attention": {
@@ -881,8 +883,8 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 11.0,
-        "trends_index": 0.005377601122281974
+        "store_rank": 12.0,
+        "trends_index": 0.004653086275426701
       }
     },
     {
@@ -891,17 +893,18 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": null,
+        "level": 1.9,
         "momentum": null
       },
       "attention": {
-        "level": 17.1,
+        "level": 15.0,
         "momentum": null
       },
       "platforms_breakdown": {
         "trends_index": 0.0,
-        "twitch_viewers": 27.0,
-        "twitch_streamers": 6.0
+        "twitch_viewers": 27.5,
+        "twitch_streamers": 6.0,
+        "store_rank": 2.0
       }
     },
     {
@@ -910,18 +913,18 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 18.4,
+        "level": 26.9,
         "momentum": null
       },
       "attention": {
-        "level": 57.6,
+        "level": 59.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 9.0,
-        "trends_index": 0.02536824877250409,
-        "twitch_viewers": 79.0,
-        "twitch_streamers": 12.0
+        "store_rank": 10.0,
+        "trends_index": 0.028160314862442522,
+        "twitch_viewers": 79.5,
+        "twitch_streamers": 11.5
       }
     },
     {
@@ -934,11 +937,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 31.4,
+        "level": 31.2,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.0022211830722469023,
+        "trends_index": 0.0017058296313615462,
         "twitch_viewers": 0.0,
         "twitch_streamers": 0.0
       }
@@ -953,11 +956,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 8.4,
+        "level": 19.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.0,
+        "trends_index": 0.0004761904761904762,
         "twitch_viewers": 0.0,
         "twitch_streamers": 0.0
       }
@@ -968,16 +971,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 0.0,
+        "level": 9.6,
         "momentum": null
       },
       "attention": {
-        "level": 45.6,
+        "level": 35.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 1.0,
-        "trends_index": 0.0009352349777881693
+        "store_rank": 3.5,
+        "trends_index": 0.0005866651079417036
       }
     },
     {
@@ -990,11 +993,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 82.3,
+        "level": 81.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.11550151975683891
+        "trends_index": 0.12060790273556232
       }
     },
     {
@@ -1003,16 +1006,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 10.2,
+        "level": 17.3,
         "momentum": null
       },
       "attention": {
-        "level": 8.9,
+        "level": 18.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 6.0,
-        "trends_index": 0.0
+        "store_rank": 7.5,
+        "trends_index": 0.0002380952380952381
       }
     },
     {
@@ -1029,8 +1032,8 @@
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 13.0,
-        "trends_index": 1.8589589417625838
+        "store_rank": 11.5,
+        "trends_index": 1.8542551175467854
       }
     },
     {
@@ -1039,15 +1042,15 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 34.7,
+        "level": 38.5,
         "momentum": null
       },
       "attention": {
-        "level": 10.1,
+        "level": 3.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 14.0,
+        "store_rank": 14.5,
         "trends_index": 0.0
       }
     },
@@ -1061,12 +1064,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 11.4,
+        "level": 39.1,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 22.0,
-        "trends_index": 0.0
+        "store_rank": 20.5,
+        "trends_index": 0.0007038535984515221
       }
     },
     {
@@ -1079,12 +1082,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 54.9,
+        "level": 53.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.005669129015633053,
-        "twitch_viewers": 80.0,
+        "trends_index": 0.005122088702783974,
+        "twitch_viewers": 79.0,
         "twitch_streamers": 15.0
       }
     },
@@ -1098,11 +1101,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 25.3,
+        "level": 23.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.00029949086552860134
+        "trends_index": 0.00030232401073195404
       }
     },
     {
@@ -1115,11 +1118,11 @@
         "momentum": null
       },
       "attention": {
-        "level": 58.2,
+        "level": 59.8,
         "momentum": null
       },
       "platforms_breakdown": {
-        "trends_index": 0.003294399520814615
+        "trends_index": 0.0037832998519544544
       }
     },
     {
@@ -1128,17 +1131,17 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 98.0,
+        "level": 100.0,
         "momentum": null
       },
       "attention": {
-        "level": 56.0,
+        "level": 56.6,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 30.0,
-        "trends_index": 0.04612159329140461,
-        "twitch_viewers": 61.0,
+        "trends_index": 0.04960946921207399,
+        "twitch_viewers": 58.5,
         "twitch_streamers": 12.0
       }
     },
@@ -1148,18 +1151,19 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 95.9,
+        "level": 94.2,
         "momentum": null
       },
       "attention": {
-        "level": 68.0,
+        "level": 69.0,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 29.0,
-        "trends_index": 1.4926624737945493,
-        "twitch_viewers": 61.0,
-        "twitch_streamers": 12.0
+        "trends_index": 1.5073931837999295,
+        "twitch_viewers": 58.5,
+        "twitch_streamers": 12.0,
+        "youtube_video_count": 80144.0
       }
     },
     {
@@ -1168,17 +1172,17 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 91.8,
+        "level": 92.3,
         "momentum": null
       },
       "attention": {
-        "level": 26.1,
+        "level": 21.9,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 28.0,
         "trends_index": 0.0,
-        "twitch_viewers": 61.0,
+        "twitch_viewers": 58.5,
         "twitch_streamers": 12.0
       }
     },
@@ -1188,16 +1192,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 87.8,
+        "level": 88.5,
         "momentum": null
       },
       "attention": {
-        "level": 35.4,
+        "level": 22.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 27.0,
-        "trends_index": 0.0005841803949059469
+        "trends_index": 0.00029209019745297346
       }
     },
     {
@@ -1206,11 +1210,11 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 85.7,
+        "level": 86.5,
         "momentum": null
       },
       "attention": {
-        "level": 12.8,
+        "level": 8.5,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -1226,16 +1230,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 81.6,
+        "level": 82.7,
         "momentum": null
       },
       "attention": {
-        "level": 30.4,
+        "level": 33.6,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 25.0,
-        "trends_index": 0.0010515247108307045,
+        "trends_index": 0.001418832133934047,
         "twitch_viewers": 0.0,
         "twitch_streamers": 0.0
       }
@@ -1246,16 +1250,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 77.6,
+        "level": 80.8,
         "momentum": null
       },
       "attention": {
-        "level": 15.2,
+        "level": 44.6,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 24.0,
-        "trends_index": 0.0
+        "trends_index": 0.0008930697785186948
       }
     },
     {
@@ -1264,16 +1268,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 73.5,
+        "level": 75.0,
         "momentum": null
       },
       "attention": {
-        "level": 15.0,
+        "level": 8.6,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 23.0,
-        "trends_index": 0.0003505082369435682,
+        "trends_index": 0.0001752541184717841,
         "youtube_video_count": 106.0
       }
     },
@@ -1283,11 +1287,11 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 69.4,
+        "level": 71.2,
         "momentum": null
       },
       "attention": {
-        "level": 16.5,
+        "level": 6.5,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -1301,16 +1305,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 63.3,
+        "level": 69.2,
         "momentum": null
       },
       "attention": {
-        "level": 51.9,
+        "level": 40.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 21.0,
-        "trends_index": 0.0015188690267554622
+        "trends_index": 0.0007594345133777311
       }
     },
     {
@@ -1319,16 +1323,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 59.2,
+        "level": 65.4,
         "momentum": null
       },
       "attention": {
-        "level": 24.6,
+        "level": 23.4,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 20.0,
-        "trends_index": 0.00046734431592475756,
+        "trends_index": 0.0003527481284315381,
         "youtube_video_count": 1402.0
       }
     },
@@ -1338,17 +1342,17 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 57.1,
+        "level": 59.6,
         "momentum": null
       },
       "attention": {
-        "level": 37.5,
+        "level": 33.5,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 19.0,
-        "trends_index": 0.0012851968687930832,
-        "twitch_viewers": 8.0,
+        "trends_index": 0.0007616744048657009,
+        "twitch_viewers": 7.5,
         "twitch_streamers": 1.0
       }
     },
@@ -1358,16 +1362,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 53.1,
+        "level": 55.8,
         "momentum": null
       },
       "attention": {
-        "level": 30.4,
+        "level": 16.3,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 18.0,
-        "trends_index": 0.00046734431592475756
+        "trends_index": 0.00023367215796237878
       }
     },
     {
@@ -1376,11 +1380,11 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 46.9,
+        "level": 50.0,
         "momentum": null
       },
       "attention": {
-        "level": 17.7,
+        "level": 7.6,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -1394,7 +1398,7 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 44.9,
+        "level": 42.3,
         "momentum": null
       },
       "attention": {
@@ -1411,11 +1415,11 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 40.8,
+        "level": 40.4,
         "momentum": null
       },
       "attention": {
-        "level": 93.3,
+        "level": 90.6,
         "momentum": null
       },
       "platforms_breakdown": {
@@ -1429,7 +1433,7 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 36.7,
+        "level": 36.5,
         "momentum": null
       },
       "attention": {
@@ -1463,16 +1467,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 20.4,
+        "level": 25.0,
         "momentum": null
       },
       "attention": {
-        "level": 19.0,
+        "level": 27.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 9.0,
-        "trends_index": 0.0
+        "trends_index": 0.0003572704537334762
       }
     },
     {
@@ -1481,16 +1485,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 16.3,
+        "level": 23.1,
         "momentum": null
       },
       "attention": {
-        "level": 43.0,
+        "level": 29.3,
         "momentum": null
       },
       "platforms_breakdown": {
         "store_rank": 8.0,
-        "trends_index": 0.0009347978499649451
+        "trends_index": 0.00046739892498247256
       }
     },
     {
@@ -1503,14 +1507,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 46.5,
+        "level": 46.8,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 308.0,
-        "trends_index": 0.029562982005141392,
+        "trends_index": 0.029131854227531992,
         "twitch_viewers": 7.0,
-        "twitch_streamers": 5.0
+        "twitch_streamers": 4.5
       }
     },
     {
@@ -1523,12 +1527,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 21.5,
+        "level": 10.9,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 2982.6,
-        "trends_index": 0.00023369946249123628
+        "trends_index": 0.00011684973124561814
       }
     },
     {
@@ -1541,12 +1545,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 20.3,
+        "level": 15.2,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 10909.4,
-        "trends_index": 0.0
+        "trends_index": 0.0001892863903085368
       }
     },
     {
@@ -1559,12 +1563,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 59.3,
+        "level": 60.1,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 2247.4,
-        "trends_index": 0.3101476014760147,
+        "trends_index": 0.3083011336927679,
         "youtube_video_count": 15665.0
       }
     },
@@ -1574,16 +1578,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 61.2,
+        "level": 51.9,
         "momentum": null
       },
       "attention": {
-        "level": 96.2,
+        "level": 95.7,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 20.0,
-        "trends_index": 0.6481549815498154
+        "store_rank": 17.0,
+        "trends_index": 0.6620483406708002
       }
     },
     {
@@ -1596,12 +1600,12 @@
         "momentum": null
       },
       "attention": {
-        "level": 34.2,
+        "level": 21.7,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 885.2,
-        "trends_index": 0.0005535055350553505
+        "trends_index": 0.00027675276752767527
       }
     },
     {
@@ -1637,7 +1641,7 @@
       "platforms_breakdown": {
         "steam_concurrent": 1369.6,
         "twitch_viewers": 124.0,
-        "twitch_streamers": 13.0
+        "twitch_streamers": 12.5
       }
     },
     {
@@ -1646,7 +1650,7 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 65.3,
+        "level": 46.2,
         "momentum": null
       },
       "attention": {
@@ -1655,7 +1659,7 @@
       },
       "platforms_breakdown": {
         "steam_concurrent": 14008.8,
-        "store_rank": 21.0
+        "store_rank": 16.5
       }
     },
     {
@@ -1690,8 +1694,8 @@
       },
       "platforms_breakdown": {
         "steam_concurrent": 5469.8,
-        "twitch_viewers": 257.0,
-        "twitch_streamers": 25.0
+        "twitch_viewers": 250.5,
+        "twitch_streamers": 23.5
       }
     },
     {
@@ -1709,8 +1713,8 @@
       },
       "platforms_breakdown": {
         "steam_concurrent": 50111.6,
-        "twitch_viewers": 2055.0,
-        "twitch_streamers": 55.0
+        "twitch_viewers": 2008.0,
+        "twitch_streamers": 54.5
       }
     },
     {
@@ -1728,7 +1732,7 @@
       },
       "platforms_breakdown": {
         "steam_concurrent": 288.8,
-        "twitch_viewers": 5.0,
+        "twitch_viewers": 4.5,
         "twitch_streamers": 1.0
       }
     },
@@ -1755,17 +1759,18 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 24.5,
+        "level": 19.2,
         "momentum": null
       },
       "attention": {
-        "level": 83.7,
+        "level": 85.3,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 10.0,
-        "twitch_viewers": 3675.0,
-        "twitch_streamers": 100.0
+        "store_rank": 7.5,
+        "twitch_viewers": 3682.5,
+        "twitch_streamers": 100.0,
+        "trends_index": 0.2255952380952381
       }
     },
     {
@@ -1774,15 +1779,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 2.0,
+        "level": 0.0,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 19.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 2.0
+        "store_rank": 2.0,
+        "trends_index": 0.0002380952380952381
       }
     },
     {
@@ -1791,15 +1797,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 8.2,
+        "level": 3.8,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 57.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 5.0
+        "store_rank": 3.0,
+        "trends_index": 0.0023809523809523807
       }
     },
     {
@@ -1812,12 +1819,13 @@
         "momentum": null
       },
       "attention": {
-        "level": 32.6,
+        "level": 58.7,
         "momentum": null
       },
       "platforms_breakdown": {
-        "twitch_viewers": 43.0,
-        "twitch_streamers": 4.0
+        "twitch_viewers": 45.0,
+        "twitch_streamers": 4.5,
+        "trends_index": 0.16285714285714287
       }
     },
     {
@@ -1830,11 +1838,12 @@
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 31.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 17334.5
+        "steam_concurrent": 17334.5,
+        "trends_index": 0.0004761904761904762
       }
     },
     {
@@ -1843,18 +1852,19 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 12.2,
+        "level": 21.2,
         "momentum": null
       },
       "attention": {
-        "level": 41.9,
+        "level": 53.5,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 7.0,
+        "store_rank": 7.5,
         "steam_concurrent": 4588.5,
-        "twitch_viewers": 68.0,
-        "twitch_streamers": 14.0
+        "twitch_viewers": 69.5,
+        "twitch_streamers": 13.5,
+        "trends_index": 0.009761904761904762
       }
     },
     {
@@ -1867,13 +1877,14 @@
         "momentum": null
       },
       "attention": {
-        "level": 16.3,
+        "level": 18.5,
         "momentum": null
       },
       "platforms_breakdown": {
         "steam_concurrent": 31.0,
         "twitch_viewers": 0.0,
-        "twitch_streamers": 0.0
+        "twitch_streamers": 0.0,
+        "trends_index": 0.0002380952380952381
       }
     },
     {
@@ -1886,11 +1897,12 @@
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 8.7,
         "momentum": null
       },
       "platforms_breakdown": {
-        "steam_concurrent": 4874.5
+        "steam_concurrent": 4874.5,
+        "trends_index": 0.0
       }
     },
     {
@@ -1899,15 +1911,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 100.0,
+        "level": 98.1,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 32.6,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 30.0
+        "store_rank": 29.5,
+        "trends_index": 0.0005132591958939265
       }
     },
     {
@@ -1916,15 +1929,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 49.0,
+        "level": 48.1,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 98.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 17.0
+        "store_rank": 16.5,
+        "trends_index": 1.8489307100085544
       }
     },
     {
@@ -1933,15 +1947,16 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 6.1,
+        "level": 11.5,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 73.9,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 4.0
+        "store_rank": 4.0,
+        "trends_index": 0.031137724550898204
       }
     },
     {
@@ -1950,15 +1965,34 @@
       "category": "f2p",
       "needs_review": true,
       "category_core": {
-        "level": 4.1,
+        "level": 5.8,
         "momentum": null
       },
       "attention": {
-        "level": null,
+        "level": 42.4,
         "momentum": null
       },
       "platforms_breakdown": {
-        "store_rank": 3.0
+        "store_rank": 3.0,
+        "trends_index": 0.0008554319931565441
+      }
+    },
+    {
+      "game_id": "line-ディズニー-ツムツム",
+      "name": "LINE：ディズニー ツムツム",
+      "category": "f2p",
+      "needs_review": true,
+      "category_core": {
+        "level": 13.5,
+        "momentum": null
+      },
+      "attention": {
+        "level": 9.8,
+        "momentum": null
+      },
+      "platforms_breakdown": {
+        "store_rank": 4.0,
+        "trends_index": 0.0
       }
     }
   ]

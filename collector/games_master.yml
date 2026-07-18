@@ -934,3 +934,12 @@
     twitch_game_id: null
     ios_app_id: '1576831351'
     android_package: null
+- game_id: line-ディズニー-ツムツム
+  name: LINE：ディズニー ツムツム
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '724594093'
+    android_package: null
