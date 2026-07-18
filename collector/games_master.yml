@@ -779,7 +779,7 @@
   platforms:
     steam_appid: 4025700
     twitch_game_id: null
-    ios_app_id: null
+    ios_app_id: '6746151928'
     android_package: null
 - game_id: ブループロトコル-スターレゾナンス
   name: ブループロトコル：スターレゾナンス
@@ -861,4 +861,76 @@
     steam_appid: null
     twitch_game_id: null
     ios_app_id: '852882903'
+    android_package: null
+- game_id: トーチライト-インフィニティ
+  name: トーチライト：インフィニティ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1974050
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: sky-星を紡ぐ子どもたち
+  name: Sky 星を紡ぐ子どもたち
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2325290
+    twitch_game_id: null
+    ios_app_id: '1462117269'
+    android_package: null
+- game_id: capcom-arcade-2nd-stadium
+  name: Capcom Arcade 2nd Stadium
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1755910
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: スローン-アンド-リバティ
+  name: スローン・アンド・リバティ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2429640
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: プロ野球スピリッツａ
+  name: プロ野球スピリッツＡ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '940320341'
+    android_package: null
+- game_id: にゃんこ大戦争
+  name: にゃんこ大戦争
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '547145938'
+    android_package: null
+- game_id: 東京ディバンカー
+  name: 東京ディバンカー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1453840513'
+    android_package: null
+- game_id: ヘブンバーンズレッド
+  name: ヘブンバーンズレッド
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1576831351'
     android_package: null
