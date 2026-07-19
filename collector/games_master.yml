@@ -943,3 +943,39 @@
     twitch_game_id: null
     ios_app_id: '724594093'
     android_package: null
+- game_id: path-of-exile-2
+  name: Path of Exile 2
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2694490
+    twitch_game_id: '1702520304'
+    ios_app_id: null
+    android_package: null
+- game_id: サマナーズウォー-sky-arena
+  name: 'サマナーズウォー: Sky Arena'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2426960
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: rust
+  name: Rust
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 252490
+    twitch_game_id: '263490'
+    ios_app_id: null
+    android_package: null
+- game_id: pokémon-masters-ex
+  name: Pokémon Masters EX
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: '295498815'
+    ios_app_id: '1442061397'
+    android_package: null
