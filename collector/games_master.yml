@@ -979,3 +979,57 @@
     twitch_game_id: '295498815'
     ios_app_id: '1442061397'
     android_package: null
+- game_id: ea-sports-fc-26
+  name: EA SPORTS FC™ 26
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3405690
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: 魔法少女ノ魔女裁判
+  name: 魔法少女ノ魔女裁判
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3101040
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: one-piece-トレジャークルーズ
+  name: ONE PIECE トレジャークルーズ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '824116884'
+    android_package: null
+- game_id: プロジェクトセカイ-カラフルステージ-feat-初音ミク
+  name: プロジェクトセカイ カラフルステージ！ feat. 初音ミク
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1489932710'
+    android_package: null
+- game_id: disney-solitaire-ディズニー-ソリティア
+  name: Disney Solitaire ディズニー ソリティア
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6475757306'
+    android_package: null
+- game_id: タウンシップ-township
+  name: タウンシップ (Township)
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '638689075'
+    android_package: null
