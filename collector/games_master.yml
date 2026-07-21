@@ -1033,3 +1033,39 @@
     twitch_game_id: null
     ios_app_id: '638689075'
     android_package: null
+- game_id: team-fortress-2
+  name: Team Fortress 2
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 440
+    twitch_game_id: '16676'
+    ios_app_id: null
+    android_package: null
+- game_id: プロサッカークラブをつくろう
+  name: プロサッカークラブをつくろう！
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 3271000
+    twitch_game_id: null
+    ios_app_id: '6741469353'
+    android_package: null
+- game_id: モンスターハンターワイルズ
+  name: モンスターハンターワイルズ
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2246340
+    twitch_game_id: '1286077738'
+    ios_app_id: null
+    android_package: null
+- game_id: モンスターハンターnow
+  name: モンスターハンターNow
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6445906110'
+    android_package: null
