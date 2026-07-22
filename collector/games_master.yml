@@ -498,7 +498,7 @@
   category: f2p
   needs_review: true
   platforms:
-    steam_appid: null
+    steam_appid: 3564400
     twitch_game_id: '505084'
     ios_app_id: '1325457827'
     android_package: null
@@ -1068,4 +1068,67 @@
     steam_appid: null
     twitch_game_id: null
     ios_app_id: '6445906110'
+    android_package: null
+- game_id: battlefield-6
+  name: Battlefield™ 6
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2807960
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: シーズン4-battlefieldプロ-battlefield-6とredsec
+  name: シーズン4 Battlefieldプロ - Battlefield™ 6とREDSEC
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4600470
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ゼンレスゾーンゼロ
+  name: ゼンレスゾーンゼロ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 4162040
+    twitch_game_id: '456845141'
+    ios_app_id: null
+    android_package: null
+- game_id: 学園アイドルマスター
+  name: 学園アイドルマスター
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6446659989'
+    android_package: null
+- game_id: ドラゴンクエストスマッシュグロウ-ドラクエローグライトrpg
+  name: ドラゴンクエストスマッシュグロウ ドラクエローグライトRPG
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6747736697'
+    android_package: null
+- game_id: 原神-空月の歌
+  name: 原神～空月の歌～
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1517783697'
+    android_package: null
+- game_id: one-piece-バウンティラッシュ-アクションゲーム
+  name: ONE PIECE バウンティラッシュ - アクションゲーム
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1322310031'
     android_package: null
