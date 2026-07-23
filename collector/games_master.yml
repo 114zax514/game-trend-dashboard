@@ -1132,3 +1132,66 @@
     twitch_game_id: null
     ios_app_id: '1322310031'
     android_package: null
+- game_id: staffer-retro-超能力推理クエスト
+  name: 'Staffer Retro: 超能力推理クエスト'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3837350
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: 雀魂-じゃんたま
+  name: 雀魂 -じゃんたま-
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2717220
+    twitch_game_id: '512708'
+    ios_app_id: '1469186379'
+    android_package: null
+- game_id: once-human
+  name: Once Human
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2139460
+    twitch_game_id: '1441208453'
+    ios_app_id: null
+    android_package: null
+- game_id: call-of-duty-modern-warfare-4
+  name: 'Call of Duty®: Modern Warfare® 4'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4435490
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: fate-grand-order
+  name: Fate/Grand Order
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: '493048'
+    ios_app_id: '1015521325'
+    android_package: null
+- game_id: ドラゴンボール-レジェンズ
+  name: ドラゴンボール レジェンズ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1358232022'
+    android_package: null
+- game_id: ヴァンピール-vampir
+  name: ヴァンピール(VAMPIR)
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6738163891'
+    android_package: null
