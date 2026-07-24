@@ -1195,3 +1195,111 @@
     twitch_game_id: null
     ios_app_id: '6738163891'
     android_package: null
+- game_id: ドラゴンソード-アウェイクニング
+  name: ドラゴンソード:アウェイクニング
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4570720
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ホロライブドリームス
+  name: ホロライブドリームス
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 4282500
+    twitch_game_id: null
+    ios_app_id: '6756641135'
+    android_package: null
+- game_id: grim-dawn
+  name: Grim Dawn
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 219990
+    twitch_game_id: '26881'
+    ios_app_id: null
+    android_package: null
+- game_id: grim-dawn-fangs-of-asterkarn
+  name: Grim Dawn - Fangs of Asterkarn
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2699230
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: リバース-1999
+  name: リバース：1999
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 3092660
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: スターセイヴァー
+  name: スターセイヴァー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 3609080
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ルビナイト
+  name: ルビナイト
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1845250
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: エターナルリターン
+  name: エターナルリターン
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1049590
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: beast-of-reincarnation
+  name: Beast of Reincarnation
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2001760
+    twitch_game_id: '539257489'
+    ios_app_id: null
+    android_package: null
+- game_id: デュエル-マスターズ-プレイス
+  name: デュエル・マスターズ プレイス
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: '515629'
+    ios_app_id: '1478829750'
+    android_package: null
+- game_id: identity-v
+  name: Identity V
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: '508662'
+    ios_app_id: '1347780764'
+    android_package: null
+- game_id: 七つの大罪-光と闇の交戦-グラクロ
+  name: '七つの大罪 光と闇の交戦 : グラクロ'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1268959718'
+    android_package: null
