@@ -1303,3 +1303,30 @@
     twitch_game_id: null
     ios_app_id: '1268959718'
     android_package: null
+- game_id: path-of-exile
+  name: Path of Exile
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 238960
+    twitch_game_id: '29307'
+    ios_app_id: null
+    android_package: null
+- game_id: 奈落のキッチン
+  name: 奈落のキッチン
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3508910
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: dinoblade
+  name: Dinoblade
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3440070
+    twitch_game_id: '980422880'
+    ios_app_id: null
+    android_package: null
