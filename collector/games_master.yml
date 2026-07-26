@@ -1330,3 +1330,12 @@
     twitch_game_id: '980422880'
     ios_app_id: null
     android_package: null
+- game_id: 信長の野望-真戦
+  name: 信長の野望 真戦
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6739554561'
+    android_package: null
