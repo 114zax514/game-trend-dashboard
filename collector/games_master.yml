@@ -1339,3 +1339,12 @@
     twitch_game_id: null
     ios_app_id: '6739554561'
     android_package: null
+- game_id: metal-gear-metal-gear-2-solid-snake
+  name: METAL GEAR & METAL GEAR 2 SOLID SNAKE
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2131680
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
