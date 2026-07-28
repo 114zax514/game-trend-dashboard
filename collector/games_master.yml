@@ -1348,3 +1348,57 @@
     twitch_game_id: null
     ios_app_id: null
     android_package: null
+- game_id: サイバーパンク2077
+  name: サイバーパンク2077
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1091500
+    twitch_game_id: '65876'
+    ios_app_id: null
+    android_package: null
+- game_id: metal-gear-solid-δ-snake-eater
+  name: 'METAL GEAR SOLID Δ: SNAKE EATER'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2417610
+    twitch_game_id: '957620847'
+    ios_app_id: null
+    android_package: null
+- game_id: jr東日本トレインシミュレータ
+  name: JR東日本トレインシミュレータ
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2111630
+    twitch_game_id: '1869225008'
+    ios_app_id: null
+    android_package: null
+- game_id: street-fighter-6-year-4-アルティメットパス
+  name: Street Fighter 6 - Year 4 アルティメットパス
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4412690
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: コンパス-戦闘摂理解析システム
+  name: '#コンパス【戦闘摂理解析システム】'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1164400646'
+    android_package: null
+- game_id: 無職転生-異世界行ったら本気だす-クロエコ
+  name: 無職転生 〜異世界行ったら本気だす〜 【クロエコ】
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6754311241'
+    android_package: null
