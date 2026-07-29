@@ -1402,3 +1402,48 @@
     twitch_game_id: null
     ios_app_id: '6754311241'
     android_package: null
+- game_id: jr東日本トレインシミュレータ-東海道線上り-熱海-東京-e233系3000番代
+  name: 'JR東日本トレインシミュレータ: 東海道線上り (熱海 → 東京) E233系3000番代'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4893760
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: halo-campaign-evolved
+  name: 'Halo: Campaign Evolved'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2806050
+    twitch_game_id: '796500915'
+    ios_app_id: null
+    android_package: null
+- game_id: サイバーパンク2077-仮初めの自由
+  name: サイバーパンク2077：仮初めの自由
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2138330
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: 僕のヒーローアカデミア-ultra-rumble
+  name: 僕のヒーローアカデミア ULTRA RUMBLE
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1607250
+    twitch_game_id: '451007760'
+    ios_app_id: null
+    android_package: null
+- game_id: ddff-ファイナルファンタジーのオールスター共闘アクション
+  name: DDFF-ファイナルファンタジーのオールスター共闘アクション
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6480398822'
+    android_package: null
