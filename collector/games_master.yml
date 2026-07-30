@@ -176,7 +176,7 @@
   platforms:
     steam_appid: 4508340
     twitch_game_id: '1901865180'
-    ios_app_id: null
+    ios_app_id: '6754593077'
     android_package: com.hottagames.nte
 - game_id: escape-from-tarkov
   name: Escape from Tarkov
@@ -1446,4 +1446,94 @@
     steam_appid: null
     twitch_game_id: null
     ios_app_id: '6480398822'
+    android_package: null
+- game_id: ほの暮しの庭
+  name: ほの暮しの庭
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3934250
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: mistfall-hunter
+  name: Mistfall Hunter
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3282300
+    twitch_game_id: '852009328'
+    ios_app_id: null
+    android_package: null
+- game_id: ドラゴンボール-sparking-zero
+  name: ドラゴンボール Sparking! ZERO
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1790600
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: blue-reflection-quartet-少女たちのキセキ
+  name: 'BLUE REFLECTION Quartet: 少女たちのキセキ'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3825390
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: カルドセプト-ザ-ファースト
+  name: カルドセプト ザ ファースト
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3825600
+    twitch_game_id: '1183881595'
+    ios_app_id: null
+    android_package: null
+- game_id: テニスの王子様-ぎゅ-っと-ドキドキサバイバル-tie-break-game
+  name: テニスの王子様　ぎゅ～っと！ ドキドキサバイバル Tie break ♡ game
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3907380
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ゼンレスゾーンゼロ-アニバーサリー
+  name: ゼンレスゾーンゼロ - アニバーサリー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1606356401'
+    android_package: null
+- game_id: ブルーアーカイブ
+  name: ブルーアーカイブ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: '1571205119'
+    ios_app_id: '1515877221'
+    android_package: null
+- game_id: 信長の野望-覇道
+  name: 信長の野望 覇道
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1619722298'
+    android_package: null
+- game_id: ゼンレスゾーンゼロ-クラウド版-アニバーサリー
+  name: ゼンレスゾーンゼロ・クラウド版 - アニバーサリー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6748930656'
     android_package: null
