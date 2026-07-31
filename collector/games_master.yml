@@ -1537,3 +1537,48 @@
     twitch_game_id: null
     ios_app_id: '6748930656'
     android_package: null
+- game_id: アストラル-パーティー
+  name: アストラル☆パーティー
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2622000
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: wizardry-variants-daphne
+  name: Wizardry Variants Daphne
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 2379740
+    twitch_game_id: null
+    ios_app_id: '1663423521'
+    android_package: null
+- game_id: sudden-attack-zero-point
+  name: Sudden Attack Zero Point
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 3576070
+    twitch_game_id: '160606242'
+    ios_app_id: null
+    android_package: null
+- game_id: naraka-bladepoint
+  name: 'NARAKA: BLADEPOINT'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1203220
+    twitch_game_id: '515474'
+    ios_app_id: null
+    android_package: null
+- game_id: 鳴潮-玄方地界へ
+  name: 鳴潮 - 玄方地界へ
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6475033368'
+    android_package: null
