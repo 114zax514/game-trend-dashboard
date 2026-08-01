@@ -1,0 +1,2684 @@
+[
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "efootball",
+    "value": 30
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "nte-neverness-to-everness",
+    "value": 11
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "モンスターストライク",
+    "value": 27
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "崩壊-スターレイル",
+    "value": 9
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ホワイトアウト-サバイバル",
+    "value": 20
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ドラゴンボールz-ドッカンバトル",
+    "value": 10
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ラストウォー-サバイバル",
+    "value": 15
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ゴシップハーバー-マージ-ストーリー",
+    "value": 14
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "efootball-ウイコレ-champion-squads",
+    "value": 6
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "あんさんぶるスターズ-music",
+    "value": 24
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "トゥーンブラスト",
+    "value": 4
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ロイヤルマッチ-royal-match",
+    "value": 3
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "pokémon-tcg-pocket",
+    "value": 29
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "勝利の女神-nikke",
+    "value": 5
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ディズニー-ツイステッドワンダーランド",
+    "value": 8
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "イナズマイレブン-クロス",
+    "value": 11
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "arknights",
+    "value": 30
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "アークナイツ",
+    "value": 29
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "명일방주",
+    "value": 28
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "valor-legends-shoot-run",
+    "value": 27
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "cookierun-tower-of-adventures",
+    "value": 26
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "free-fire-max",
+    "value": 25
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "アスファルト-legends",
+    "value": 24
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ディズニー-スピードストーム",
+    "value": 23
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "odin-valhalla-rising",
+    "value": 22
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ファームヒーロー",
+    "value": 21
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "君主の道",
+    "value": 20
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "game-of-thrones-kingsroad",
+    "value": 19
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "俺だけレベルアップな件-arise-俺アラ",
+    "value": 18
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ソニックランブル-パーティ-白熱オンラインパーティゲーム",
+    "value": 17
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "クラッシュ-オブ-クラン-clash-of-clans",
+    "value": 16
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "クラッシュ-ロワイヤル-clash-royale",
+    "value": 15
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "エボニー-王の帰還",
+    "value": 14
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ムーンライト-ピークス-ヴァンパイアのゴシックライフ",
+    "value": 10
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "リアル麻雀-雀龍門m-麻雀ゲーム",
+    "value": 9
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "リネージュm-本格スマホmmorpg",
+    "value": 8
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "sdガンダム-ジージェネレーション-エターナル",
+    "value": 22
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "プロ野球スピリッツａ",
+    "value": 26
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "にゃんこ大戦争",
+    "value": 21
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "line-ディズニー-ツムツム",
+    "value": 23
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "学園アイドルマスター",
+    "value": 19
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "one-piece-バウンティラッシュ-アクションゲーム",
+    "value": 12
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ホロライブドリームス",
+    "value": 28
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "信長の野望-真戦",
+    "value": 16
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "コンパス-戦闘摂理解析システム",
+    "value": 13
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "無職転生-異世界行ったら本気だす-クロエコ",
+    "value": 2
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ゼンレスゾーンゼロ-アニバーサリー",
+    "value": 25
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "ブルーアーカイブ",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "鳴潮-玄方地界へ",
+    "value": 17
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "妖怪ウォッチ-ぷにぷに",
+    "value": 18
+  },
+  {
+    "collected_at": "2026-08-01T11:14:29.164758+09:00",
+    "source": "store_rank",
+    "game_id": "キングダム-頂天",
+    "value": 7
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "エーペックスレジェンズ",
+    "value": 0.01045822102425876
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "counter-strike-2",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "七つの大罪-origin",
+    "value": 0.0037735849056603774
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "オーバーウォッチ",
+    "value": 0.3593530997304582
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "echoes-of-aincrad",
+    "value": 0.023178094006037084
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "palworld-パルワールド",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "granblue-fantasy-relink",
+    "value": 0.0023717119448037945
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "shadowverse-worlds-beyond",
+    "value": 0.0004312203536006899
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "デッドバイデイライト",
+    "value": 0.02565761103924105
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "めっちゃカメレオン",
+    "value": 0.7023501509271237
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "pubg-battlegrounds",
+    "value": 0.0005390254420008624
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "wuthering-waves",
+    "value": 0.013799051315222077
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "星の翼",
+    "value": 0.19376752210480913
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "efootball",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "the-mound-omen-of-cthulhu",
+    "value": 0.0003234850118611171
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ark-survival-ascended",
+    "value": 0.0072244985982316155
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "street-fighter-6",
+    "value": 0.017252533965926242
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "limbus-company",
+    "value": 0.027172740996333836
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "forza-horizon-6",
+    "value": 0.11235712745309467
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "nte-neverness-to-everness",
+    "value": 0.0007547983610092732
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "escape-from-tarkov",
+    "value": 0.006469700237222342
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "アサシン-クリード-ブラック-フラッグ-re-シンクロ",
+    "value": 0.0009704550355833513
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "yu-gi-oh-master-duel",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "グランド-セフト-オートv-エンハンスト",
+    "value": 0.0003234850118611171
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "nba-2k26",
+    "value": 0.0003234850118611171
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "satisfactory",
+    "value": 0.06480483070951046
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "elden-ring-nightreign",
+    "value": 0.0004313133491481561
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ペルソナ５-the-phantom-x",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "活俠傳",
+    "value": 0.15559629070519732
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "factory-town-2-paradise",
+    "value": 0.0008626266982963122
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "モンスターストライク",
+    "value": 0.03892602976062109
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "崩壊-スターレイル",
+    "value": 0.4086693983178779
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "パズル-ドラゴンズ",
+    "value": 0.016666666666666666
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ホワイトアウト-サバイバル",
+    "value": 0.029468599033816427
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "pokémon-go",
+    "value": 0.27161835748792273
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ドラゴンボールz-ドッカンバトル",
+    "value": 0.0024154589371980675
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ラストウォー-サバイバル",
+    "value": 0.009163432514014662
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ゴシップハーバー-マージ-ストーリー",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "キングショット",
+    "value": 0.14661492022423459
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "白猫プロジェクト",
+    "value": 0.17130228546787407
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "efootball-ウイコレ-champion-squads",
+    "value": 0.0006468305304010349
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "あんさんぶるスターズ-music",
+    "value": 0.00021561017680034496
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "トゥーンブラスト",
+    "value": 0.0018326865028029321
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ロイヤルマッチ-royal-match",
+    "value": 0.0005390254420008624
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "パズル-サバイバル",
+    "value": 0.0026951272100043124
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "pokémon-tcg-pocket",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "勝利の女神-nikke",
+    "value": 0.017033203967227253
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "pokémon-sleep",
+    "value": 0.00021561017680034496
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ディズニー-ツイステッドワンダーランド",
+    "value": 0.005498059508408796
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ガーデンスケイプ-gardenscapes",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "イナズマイレブン-クロス",
+    "value": 0.0623113410952997
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "line-ポコポコ-3マッチパズルゲーム",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ブロスタ",
+    "value": 1.4352628077178975
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "荒野行動-スマホ版バトロワ",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ドラゴンクエストウォーク-歩く楽しみが増える位置情報ゲーム",
+    "value": 0.0005322687957418496
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ウマ娘-プリティーダービー",
+    "value": 0.012508316699933466
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ラストz-サバイバルシューティング",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "グルメ-ジャーニー",
+    "value": 0.0024286581663630845
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "arknights",
+    "value": 0.020845982594616477
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "アークナイツ",
+    "value": 1.4584092289010322
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "명일방주",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "valor-legends-shoot-run",
+    "value": 0.0018326865028029321
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "cookierun-tower-of-adventures",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "free-fire-max",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "アスファルト-legends",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ディズニー-スピードストーム",
+    "value": 0.0008625336927223719
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "odin-valhalla-rising",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ファームヒーロー",
+    "value": 0.0014016172506738545
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "君主の道",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "game-of-thrones-kingsroad",
+    "value": 0.0011859838274932615
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "俺だけレベルアップな件-arise-俺アラ",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ソニックランブル-パーティ-白熱オンラインパーティゲーム",
+    "value": 0.0006469002695417789
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "リアル麻雀-雀龍門m-麻雀ゲーム",
+    "value": 0.00021563342318059299
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "リネージュm-本格スマホmmorpg",
+    "value": 0.00032345013477088946
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "full-stride",
+    "value": 0.0008625336927223719
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ebaseball-pro-spirit",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "風燕伝-where-winds-meet",
+    "value": 0.0005390835579514824
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "デジモンストーリー-タイムストレンジャー",
+    "value": 0.2309433962264151
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "デジモンup",
+    "value": 0.3476010781671159
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ドールズフロントライン2-エクシリウム",
+    "value": 0.00032345013477088946
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "アークナイツ-エンドフィールド",
+    "value": 0.16026747195858498
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ドラゴンクエストタクト-ドラクエのタクティクスrpg",
+    "value": 0.0003235547886108714
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "sdガンダム-ジージェネレーション-エターナル",
+    "value": 0.0030198446937014668
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "グランブルーファンタジー",
+    "value": 0.09307592752372736
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "トーチライト-インフィニティ",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "sky-星を紡ぐ子どもたち",
+    "value": 0.016716997411561692
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "capcom-arcade-2nd-stadium",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "スローン-アンド-リバティ",
+    "value": 0.0003235547886108714
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "プロ野球スピリッツａ",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "にゃんこ大戦争",
+    "value": 2.3294896957801767
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "東京ディバンカー",
+    "value": 0.04538763493621197
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ヘブンバーンズレッド",
+    "value": 0.001226692836113837
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "line-ディズニー-ツムツム",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "path-of-exile-2",
+    "value": 0.0009613073780341264
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "サマナーズウォー-sky-arena",
+    "value": 0.0004806536890170632
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "rust",
+    "value": 1.1040615236721942
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "pokémon-masters-ex",
+    "value": 0.0016188214979494927
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ea-sports-fc-26",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "魔法少女ノ魔女裁判",
+    "value": 0.21098640189941723
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "one-piece-トレジャークルーズ",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "プロジェクトセカイ-カラフルステージ-feat-初音ミク",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "disney-solitaire-ディズニー-ソリティア",
+    "value": 0.0005396071659831643
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "タウンシップ-township",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "team-fortress-2",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "プロサッカークラブをつくろう",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "モンスターハンターワイルズ",
+    "value": 0.23469536134942562
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "モンスターハンターnow",
+    "value": 0.028646212011051327
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "battlefield-6",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "シーズン4-battlefieldプロ-battlefield-6とredsec",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ゼンレスゾーンゼロ",
+    "value": 0.2938572816582101
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "学園アイドルマスター",
+    "value": 0.08971175645039405
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ドラゴンクエストスマッシュグロウ-ドラクエローグライトrpg",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "once-human",
+    "value": 0.010687682176400735
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "call-of-duty-modern-warfare-4",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "fate-grand-order",
+    "value": 0.007556946993414661
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ドラゴンボール-レジェンズ",
+    "value": 0.2069523912339415
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ヴァンピール-vampir",
+    "value": 0.0004317789291882556
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ドラゴンソード-アウェイクニング",
+    "value": 0.03616148531951641
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ホロライブドリームス",
+    "value": 0.2844343696027634
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "grim-dawn",
+    "value": 0.11204663212435233
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "grim-dawn-fangs-of-asterkarn",
+    "value": 0.0009712928987696957
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "リバース-1999",
+    "value": 0.10954025469458235
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "スターセイヴァー",
+    "value": 0.05180228793438377
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ルビナイト",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "エターナルリターン",
+    "value": 0.004316857327865314
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "beast-of-reincarnation",
+    "value": 0.08655298942369954
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "デュエル-マスターズ-プレイス",
+    "value": 0.0008633714655730628
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "identity-v",
+    "value": 0.0009712928987696957
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "七つの大罪-光と闇の交戦-グラクロ",
+    "value": 0.00032376429958989856
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "path-of-exile",
+    "value": 0.01931793654219728
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "奈落のキッチン",
+    "value": 0.0010792143319663286
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "dinoblade",
+    "value": 0.0004316857327865314
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "信長の野望-真戦",
+    "value": 0.36379328945948863
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "metal-gear-metal-gear-2-solid-snake",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "サイバーパンク2077",
+    "value": 0.25515158053727477
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "metal-gear-solid-δ-snake-eater",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "jr東日本トレインシミュレータ",
+    "value": 0.0006473888649115235
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "street-fighter-6-year-4-アルティメットパス",
+    "value": 0.00043159257660768235
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "コンパス-戦闘摂理解析システム",
+    "value": 0.00021579628830384117
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "無職転生-異世界行ったら本気だす-クロエコ",
+    "value": 0.0007552870090634442
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "jr東日本トレインシミュレータ-東海道線上り-熱海-東京-e233系3000番代",
+    "value": 0.0008631851532153647
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "halo-campaign-evolved",
+    "value": 0.024708675010789816
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "サイバーパンク2077-仮初めの自由",
+    "value": 0.0005394907207596029
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "僕のヒーローアカデミア-ultra-rumble",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ddff-ファイナルファンタジーのオールスター共闘アクション",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ほの暮しの庭",
+    "value": 0.4482605312882072
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "mistfall-hunter",
+    "value": 0.1270423474491497
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ドラゴンボール-sparking-zero",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "blue-reflection-quartet-少女たちのキセキ",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "カルドセプト-ザ-ファースト",
+    "value": 0.012412304371289802
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "テニスの王子様-ぎゅ-っと-ドキドキサバイバル-tie-break-game",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ゼンレスゾーンゼロ-アニバーサリー",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ブルーアーカイブ",
+    "value": 0.5391754802503778
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "信長の野望-覇道",
+    "value": 0.016080293546298294
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "ゼンレスゾーンゼロ-クラウド版-アニバーサリー",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "アストラル-パーティー",
+    "value": 0.05439240233110296
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "wizardry-variants-daphne",
+    "value": 0.0052881502266350095
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "sudden-attack-zero-point",
+    "value": 0.0016188214979494927
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "naraka-bladepoint",
+    "value": 0.0005396071659831643
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "鳴潮-玄方地界へ",
+    "value": 0.0002158428663932657
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "corsair-cove-コルセア-コーヴ",
+    "value": 0.0016181229773462782
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "marvel-s-spider-man-2",
+    "value": 0.0
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "妖怪ウォッチ-ぷにぷに",
+    "value": 0.11434735706580366
+  },
+  {
+    "collected_at": "2026-08-01T11:18:59.761583+09:00",
+    "source": "trends_index",
+    "game_id": "キングダム-頂天",
+    "value": 0.014455231930960087
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "エーペックスレジェンズ",
+    "value": 14604
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "エーペックスレジェンズ",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "echoes-of-aincrad",
+    "value": 139
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "echoes-of-aincrad",
+    "value": 43
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "granblue-fantasy-relink",
+    "value": 472
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "granblue-fantasy-relink",
+    "value": 56
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "shadowverse-worlds-beyond",
+    "value": 129
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "shadowverse-worlds-beyond",
+    "value": 10
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "デッドバイデイライト",
+    "value": 22188
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "デッドバイデイライト",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "pubg-battlegrounds",
+    "value": 3534
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "pubg-battlegrounds",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "wuthering-waves",
+    "value": 1716
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "wuthering-waves",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "the-mound-omen-of-cthulhu",
+    "value": 643
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "the-mound-omen-of-cthulhu",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "ark-survival-ascended",
+    "value": 1622
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "ark-survival-ascended",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "street-fighter-6",
+    "value": 2831
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "street-fighter-6",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "limbus-company",
+    "value": 8
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "limbus-company",
+    "value": 3
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "forza-horizon-6",
+    "value": 1265
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "forza-horizon-6",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "nte-neverness-to-everness",
+    "value": 1542
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "nte-neverness-to-everness",
+    "value": 80
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "escape-from-tarkov",
+    "value": 8951
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "escape-from-tarkov",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "yu-gi-oh-master-duel",
+    "value": 782
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "yu-gi-oh-master-duel",
+    "value": 64
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "nba-2k26",
+    "value": 3096
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "nba-2k26",
+    "value": 93
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "satisfactory",
+    "value": 266
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "satisfactory",
+    "value": 58
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "elden-ring-nightreign",
+    "value": 12959
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "elden-ring-nightreign",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "活俠傳",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "活俠傳",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "factory-town-2-paradise",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "factory-town-2-paradise",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "崩壊-スターレイル",
+    "value": 680
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "崩壊-スターレイル",
+    "value": 76
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "pokémon-go",
+    "value": 494
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "pokémon-go",
+    "value": 24
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "白猫プロジェクト",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "白猫プロジェクト",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "あんさんぶるスターズ-music",
+    "value": 3
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "あんさんぶるスターズ-music",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "pokémon-tcg-pocket",
+    "value": 244
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "pokémon-tcg-pocket",
+    "value": 14
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "勝利の女神-nikke",
+    "value": 812
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "勝利の女神-nikke",
+    "value": 24
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "pokémon-sleep",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "pokémon-sleep",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "ディズニー-ツイステッドワンダーランド",
+    "value": 13
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "ディズニー-ツイステッドワンダーランド",
+    "value": 2
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "ウマ娘-プリティーダービー",
+    "value": 392
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "ウマ娘-プリティーダービー",
+    "value": 34
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "arknights",
+    "value": 139
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "arknights",
+    "value": 7
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "アークナイツ",
+    "value": 139
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "アークナイツ",
+    "value": 7
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "명일방주",
+    "value": 139
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "명일방주",
+    "value": 7
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "cookierun-tower-of-adventures",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "cookierun-tower-of-adventures",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "free-fire-max",
+    "value": 2
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "free-fire-max",
+    "value": 2
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "game-of-thrones-kingsroad",
+    "value": 7
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "game-of-thrones-kingsroad",
+    "value": 3
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "full-stride",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "full-stride",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "亰都ザナドゥ-桜花幻舞",
+    "value": 2
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "亰都ザナドゥ-桜花幻舞",
+    "value": 3
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "powerwash-simulator-2",
+    "value": 632
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "powerwash-simulator-2",
+    "value": 29
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "vrchat",
+    "value": 10282
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "vrchat",
+    "value": 98
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "dead-or-alive-xtreme-venus-vacation",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "dead-or-alive-xtreme-venus-vacation",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "アークナイツ-エンドフィールド",
+    "value": 487
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "アークナイツ-エンドフィールド",
+    "value": 47
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "グランブルーファンタジー",
+    "value": 22
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "グランブルーファンタジー",
+    "value": 3
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "sky-星を紡ぐ子どもたち",
+    "value": 104
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "sky-星を紡ぐ子どもたち",
+    "value": 13
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "capcom-arcade-2nd-stadium",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "capcom-arcade-2nd-stadium",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "path-of-exile-2",
+    "value": 1367
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "path-of-exile-2",
+    "value": 95
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "rust",
+    "value": 63644
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "rust",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "pokémon-masters-ex",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "pokémon-masters-ex",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "team-fortress-2",
+    "value": 202
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "team-fortress-2",
+    "value": 36
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "モンスターハンターワイルズ",
+    "value": 794
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "モンスターハンターワイルズ",
+    "value": 91
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "ゼンレスゾーンゼロ",
+    "value": 1754
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "ゼンレスゾーンゼロ",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "雀魂-じゃんたま",
+    "value": 330
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "雀魂-じゃんたま",
+    "value": 11
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "once-human",
+    "value": 1298
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "once-human",
+    "value": 94
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "fate-grand-order",
+    "value": 308
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "fate-grand-order",
+    "value": 17
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "grim-dawn",
+    "value": 357
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "grim-dawn",
+    "value": 38
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "beast-of-reincarnation",
+    "value": 19
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "beast-of-reincarnation",
+    "value": 2
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "デュエル-マスターズ-プレイス",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "デュエル-マスターズ-プレイス",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "identity-v",
+    "value": 126
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "identity-v",
+    "value": 16
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "path-of-exile",
+    "value": 17439
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "path-of-exile",
+    "value": 98
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "dinoblade",
+    "value": 229
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "dinoblade",
+    "value": 33
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "サイバーパンク2077",
+    "value": 1527
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "サイバーパンク2077",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "metal-gear-solid-δ-snake-eater",
+    "value": 103
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "metal-gear-solid-δ-snake-eater",
+    "value": 20
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "jr東日本トレインシミュレータ",
+    "value": 11
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "jr東日本トレインシミュレータ",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "halo-campaign-evolved",
+    "value": 7162
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "halo-campaign-evolved",
+    "value": 98
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "僕のヒーローアカデミア-ultra-rumble",
+    "value": 605
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "僕のヒーローアカデミア-ultra-rumble",
+    "value": 100
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "mistfall-hunter",
+    "value": 25041
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "mistfall-hunter",
+    "value": 97
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "カルドセプト-ザ-ファースト",
+    "value": 19
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "カルドセプト-ザ-ファースト",
+    "value": 4
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "ブルーアーカイブ",
+    "value": 9
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "ブルーアーカイブ",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "sudden-attack-zero-point",
+    "value": 454
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "sudden-attack-zero-point",
+    "value": 15
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "naraka-bladepoint",
+    "value": 383
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "naraka-bladepoint",
+    "value": 43
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "marvel-s-spider-man-2",
+    "value": 333
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "marvel-s-spider-man-2",
+    "value": 91
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_viewers",
+    "game_id": "妖怪ウォッチ-ぷにぷに",
+    "value": 2
+  },
+  {
+    "collected_at": "2026-08-01T11:20:11.026451+09:00",
+    "source": "twitch_streamers",
+    "game_id": "妖怪ウォッチ-ぷにぷに",
+    "value": 2
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "エーペックスレジェンズ",
+    "value": 92252
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "counter-strike-2",
+    "value": 156179
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "七つの大罪-origin",
+    "value": 936
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "オーバーウォッチ",
+    "value": 46690
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "echoes-of-aincrad",
+    "value": 18596
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "palworld-パルワールド",
+    "value": 32716
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "granblue-fantasy-relink",
+    "value": 49361
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "shadowverse-worlds-beyond",
+    "value": 41034
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "デッドバイデイライト",
+    "value": 74096
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "めっちゃカメレオン",
+    "value": 88187
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "pubg-battlegrounds",
+    "value": 323381
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "wuthering-waves",
+    "value": 54470
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "星の翼",
+    "value": 46197
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "efootball",
+    "value": 5028
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "the-mound-omen-of-cthulhu",
+    "value": 28113
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ark-survival-ascended",
+    "value": 59257
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "street-fighter-6",
+    "value": 47021
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "limbus-company",
+    "value": 35662
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "forza-horizon-6",
+    "value": 45608
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "nte-neverness-to-everness",
+    "value": 32850
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "escape-from-tarkov",
+    "value": 38394
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "アサシン-クリード-ブラック-フラッグ-re-シンクロ",
+    "value": 431
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "yu-gi-oh-master-duel",
+    "value": 34034
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "グランド-セフト-オートv-エンハンスト",
+    "value": 42
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "nba-2k26",
+    "value": 45800
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "satisfactory",
+    "value": 83629
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "elden-ring-nightreign",
+    "value": 28291
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ペルソナ５-the-phantom-x",
+    "value": 868
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "活俠傳",
+    "value": 1945
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "factory-town-2-paradise",
+    "value": 173
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "モンスターストライク",
+    "value": 67005
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "崩壊-スターレイル",
+    "value": 39986
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "パズル-ドラゴンズ",
+    "value": 4065
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ホワイトアウト-サバイバル",
+    "value": 177
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "pokémon-go",
+    "value": 123571
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ドラゴンボールz-ドッカンバトル",
+    "value": 41003
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ラストウォー-サバイバル",
+    "value": 97
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ゴシップハーバー-マージ-ストーリー",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "キングショット",
+    "value": 801
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "白猫プロジェクト",
+    "value": 1385
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "efootball-ウイコレ-champion-squads",
+    "value": 58
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "あんさんぶるスターズ-music",
+    "value": 214
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "トゥーンブラスト",
+    "value": 769
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ロイヤルマッチ-royal-match",
+    "value": 1461
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "パズル-サバイバル",
+    "value": 10516
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "pokémon-tcg-pocket",
+    "value": 71820
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "勝利の女神-nikke",
+    "value": 31613
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "pokémon-sleep",
+    "value": 20085
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ディズニー-ツイステッドワンダーランド",
+    "value": 9809
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ガーデンスケイプ-gardenscapes",
+    "value": 4
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "イナズマイレブン-クロス",
+    "value": 272
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "line-ポコポコ-3マッチパズルゲーム",
+    "value": 4
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ブロスタ",
+    "value": 176940
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "荒野行動-スマホ版バトロワ",
+    "value": 13
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ドラゴンクエストウォーク-歩く楽しみが増える位置情報ゲーム",
+    "value": 211
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ウマ娘-プリティーダービー",
+    "value": 58370
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ラストz-サバイバルシューティング",
+    "value": 18
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "グルメ-ジャーニー",
+    "value": 112
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "arknights",
+    "value": 62107
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "アークナイツ",
+    "value": 73103
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "명일방주",
+    "value": 60939
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "valor-legends-shoot-run",
+    "value": 509
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "cookierun-tower-of-adventures",
+    "value": 184
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "free-fire-max",
+    "value": 473560
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "アスファルト-legends",
+    "value": 18252
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ディズニー-スピードストーム",
+    "value": 133
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "odin-valhalla-rising",
+    "value": 241
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ファームヒーロー",
+    "value": 124
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "君主の道",
+    "value": 1318
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "game-of-thrones-kingsroad",
+    "value": 1410
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "俺だけレベルアップな件-arise-俺アラ",
+    "value": 149
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ソニックランブル-パーティ-白熱オンラインパーティゲーム",
+    "value": 0
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "クラッシュ-オブ-クラン-clash-of-clans",
+    "value": 104878
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "クラッシュ-ロワイヤル-clash-royale",
+    "value": 109978
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "エボニー-王の帰還",
+    "value": 5
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ムーンライト-ピークス-ヴァンパイアのゴシックライフ",
+    "value": 13012
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "リアル麻雀-雀龍門m-麻雀ゲーム",
+    "value": 21
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "リネージュm-本格スマホmmorpg",
+    "value": 1
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "full-stride",
+    "value": 11513
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ebaseball-pro-spirit",
+    "value": 5
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "風燕伝-where-winds-meet",
+    "value": 28195
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "デジモンストーリー-タイムストレンジャー",
+    "value": 3531
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "デジモンup",
+    "value": 7280
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ドールズフロントライン2-エクシリウム",
+    "value": 123
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "イナズマイレブン-英雄たちのヴィクトリーロード",
+    "value": 5357
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "亰都ザナドゥ-桜花幻舞",
+    "value": 3540
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ハートピアスローライフ",
+    "value": 15700
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "ブループロトコル-スターレゾナンス",
+    "value": 378
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "powerwash-simulator-2",
+    "value": 14660
+  },
+  {
+    "collected_at": "2026-08-01T11:20:56.306776+09:00",
+    "source": "youtube_video_count",
+    "game_id": "vrchat",
+    "value": 49810
+  }
+]

@@ -1582,3 +1582,39 @@
     twitch_game_id: null
     ios_app_id: '6475033368'
     android_package: null
+- game_id: corsair-cove-コルセア-コーヴ
+  name: Corsair Cove コルセア・コーヴ
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1368140
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: marvel-s-spider-man-2
+  name: Marvel's Spider-Man 2
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2651280
+    twitch_game_id: '1967084783'
+    ios_app_id: null
+    android_package: null
+- game_id: 妖怪ウォッチ-ぷにぷに
+  name: 妖怪ウォッチ ぷにぷに
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: '1913354119'
+    ios_app_id: '1032346221'
+    android_package: null
+- game_id: キングダム-頂天
+  name: キングダム 頂天
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6475892450'
+    android_package: null
