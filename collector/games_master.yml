@@ -1618,3 +1618,21 @@
     twitch_game_id: null
     ios_app_id: '6475892450'
     android_package: null
+- game_id: street-fighter-6-year-4-キャラクターパス
+  name: Street Fighter 6 - Year 4 キャラクターパス
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4412680
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: セフィリア
+  name: セフィリア
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2436940
+    twitch_game_id: '1277738947'
+    ios_app_id: null
+    android_package: null
