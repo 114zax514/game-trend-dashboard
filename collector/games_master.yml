@@ -930,7 +930,7 @@
   category: f2p
   needs_review: true
   platforms:
-    steam_appid: null
+    steam_appid: 1973710
     twitch_game_id: null
     ios_app_id: '1576831351'
     android_package: null
@@ -1634,5 +1634,14 @@
   platforms:
     steam_appid: 2436940
     twitch_game_id: '1277738947'
+    ios_app_id: null
+    android_package: null
+- game_id: marvel-tōkon-fighting-souls
+  name: 'MARVEL Tōkon: Fighting Souls'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3787240
+    twitch_game_id: '630009802'
     ios_app_id: null
     android_package: null
