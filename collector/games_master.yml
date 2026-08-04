@@ -1645,3 +1645,21 @@
     twitch_game_id: '630009802'
     ios_app_id: null
     android_package: null
+- game_id: sid-meier-s-civilization-vi
+  name: Sid Meier’s Civilization® VI
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 289070
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: never-grave
+  name: Never Grave
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: com.Pocketpair.NeverGrave
