@@ -1663,3 +1663,39 @@
     twitch_game_id: null
     ios_app_id: null
     android_package: com.Pocketpair.NeverGrave
+- game_id: スーパーロボット大戦y
+  name: スーパーロボット大戦Y
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1909950
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: スーパーロボット大戦y-アニバーサリーエキスパンションパック
+  name: スーパーロボット大戦Y - アニバーサリーエキスパンションパック
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4126740
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: big-walk
+  name: Big Walk
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1478500
+    twitch_game_id: '676802825'
+    ios_app_id: null
+    android_package: null
+- game_id: ragnarok-the-new-world
+  name: 'Ragnarok: The New World'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 4212480
+    twitch_game_id: '564433721'
+    ios_app_id: null
+    android_package: null
