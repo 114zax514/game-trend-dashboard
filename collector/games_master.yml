@@ -1699,3 +1699,57 @@
     twitch_game_id: '564433721'
     ios_app_id: null
     android_package: null
+- game_id: strinova
+  name: Strinova
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: 1282270
+    twitch_game_id: '1515015750'
+    ios_app_id: null
+    android_package: null
+- game_id: fields-of-mistria
+  name: Fields of Mistria
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2142790
+    twitch_game_id: '1846293708'
+    ios_app_id: null
+    android_package: null
+- game_id: final-fantasy-vii-remake-intergrade
+  name: FINAL FANTASY VII REMAKE INTERGRADE
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 1462040
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: ゆるゆる生配信する推しは100万回死ぬ-my-fav-chill-streamer-dies-a-million-times
+  name: ゆるゆる生配信する推しは100万回死ぬ｜My Fav Chill Streamer Dies a Million Times
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3507880
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: 遊戯王-マスターデュエル
+  name: 遊戯王 マスターデュエル
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: '1119642287'
+    ios_app_id: '1554247785'
+    android_package: null
+- game_id: キングダム-覇道
+  name: キングダム 覇道
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6737974657'
+    android_package: null
