@@ -913,7 +913,7 @@
   needs_review: true
   platforms:
     steam_appid: null
-    twitch_game_id: null
+    twitch_game_id: '490857'
     ios_app_id: '547145938'
     android_package: null
 - game_id: 東京ディバンカー
@@ -1752,4 +1752,40 @@
     steam_appid: null
     twitch_game_id: null
     ios_app_id: '6737974657'
+    android_package: null
+- game_id: iron-nest-heavy-turret-simulator
+  name: 'IRON NEST: Heavy Turret Simulator'
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2950790
+    twitch_game_id: '428189042'
+    ios_app_id: null
+    android_package: null
+- game_id: doloc-town
+  name: Doloc Town
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 2285550
+    twitch_game_id: '1766084295'
+    ios_app_id: null
+    android_package: null
+- game_id: リ-ストーリー-思い出修理屋
+  name: 'リ・ストーリー: 思い出修理屋 '
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 3812600
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: steins-gate-re-boot
+  name: STEINS;GATE RE:BOOT
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4012810
+    twitch_game_id: '374529766'
+    ios_app_id: null
     android_package: null
