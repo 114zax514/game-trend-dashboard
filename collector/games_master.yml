@@ -1524,7 +1524,7 @@
   category: f2p
   needs_review: true
   platforms:
-    steam_appid: null
+    steam_appid: 2154770
     twitch_game_id: null
     ios_app_id: '1619722298'
     android_package: null
@@ -1788,4 +1788,40 @@
     steam_appid: 4012810
     twitch_game_id: '374529766'
     ios_app_id: null
+    android_package: null
+- game_id: 日本事故物件監視協会3-japan-stigmatized-property
+  name: 日本事故物件監視協会3 -Japan Stigmatized Property-
+  category: premium
+  needs_review: true
+  platforms:
+    steam_appid: 4611990
+    twitch_game_id: null
+    ios_app_id: null
+    android_package: null
+- game_id: 幻想水滸伝-star-leap
+  name: 幻想水滸伝 STAR LEAP
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '6746180100'
+    android_package: null
+- game_id: call-of-duty-mobile
+  name: 'Call of Duty®: Mobile'
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1287282214'
+    android_package: null
+- game_id: 転生したらスライムだった件-魔王と竜の建国譚-まおりゅう
+  name: 転生したらスライムだった件 魔王と竜の建国譚【まおりゅう】
+  category: f2p
+  needs_review: true
+  platforms:
+    steam_appid: null
+    twitch_game_id: null
+    ios_app_id: '1565488936'
     android_package: null
